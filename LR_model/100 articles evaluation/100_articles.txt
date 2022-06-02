@@ -1,0 +1,1731 @@
+NO: 1
+Heart transplantation is a life-saving procedure that has seen improvements in transplant and patien
+t outcomes due to advances in immunosuppression and prevention of posttransplantation infectious epi
+sodes (IEps). This study systematically evaluates IEps in the modern era of heart transplantation at
+ Stanford University Medical Center. This is a single-center retrospective review that includes 279 
+consecutive adult heart transplantation recipients from January 2008 to September 2017. Baseline dem
+ographic, clinical, serological, and outcomes information were collected. Kaplan-Meier estimator was
+ used to assess survival stratified by IEp occurrence within the first year. A total of 600 IEps occ
+urred in 279 patients (2.15 IEps per patient) during a median follow-up period of 3 years. Overall s
+urvival was 83.3% (95% confidence interval [CI], 76.2-88.4) at 1 year posttransplantation for those 
+with any IEp compared with 93.0% (95% CI, 87.2-96.4) in those without IEp (P = 0.07). Bacterial IEps
+ were the most common (n = 375; 62.5%), followed by viral (n = 180; 30.0%), fungal (n = 40; 6.7%), a
+nd parasitic (n = 5; 0.8%). IEps by Gram-negative bacteria (n = 210) outnumbered those by Gram-posit
+ive bacteria (n = 142). Compared with prior studies from our center, there was a decreased proportio
+n of viral (including cytomegalovirus), fungal (including Aspergillus spp. and non-Aspergillus spp. 
+molds), and Nocardia infections. There were no IEps due to Mycobacterium tuberculosis, Pneumocystis 
+jirovecii, or Toxoplasma gondii. A significant reduction in viral, fungal, and Nocardia IEps after h
+eart transplantation was observed, most likely due to advancements in immunosuppression and preventi
+ve strategies, including pretransplant infectious diseases screening and antimicrobial prophylaxis.
+
+NO: 2
+The number of congenital heart disease (CHD) patients with heart failure is expanding. These patient
+s have a high probability of dying while awaiting heart transplant. The potential for durable ventri
+cular assist devices (VAD) to improve waiting list survival in CHD is unknown. We conducted an analy
+sis of the Scientific Registry of Transplant Recipients database for the primary outcome of death or
+ delisting due to clinical worsening while listed for heart transplant. We compared CHD patients wit
+h non-CHD patients matched for listing status. Multivariable models were constructed to account for 
+confounding variables. Congenital heart disease patients were less likely to have a VAD and were mor
+e likely to experience the primary outcome of death or delisting due to clinical worsening compared 
+to non-CHD patients. Ventricular assist devices decreased the probability of experiencing the primar
+y outcome for non-CHD but not for CHD patients with a final listing status of 1A. Ventricular assist
+ devices increased the probability of experiencing the primary outcome among CHD patients for those 
+with a final listing status of 1B with no impact in non-CHD patients. Among non-CHD patients who die
+d or were delisted, the time to the primary outcome was delayed by VAD, with a similar trend in CHD.
+ Except for patients with a final listing status of 1B, VAD does not adversely affect waiting list o
+utcomes in CHD patients listed for heart transplant. Ventricular assist devices may prolong waiting 
+list survival among high-risk CHD patients.
+
+NO: 3
+Cardiomyopathies might lead to end-stage heart disease with the requirement of drastic treatments li
+ke bridging up to transplant or heart transplantation. A not precisely known proportion of these dis
+eases are genetically determined. We genotyped 43 index-patients (30 DCM, 10 ARVC, 3 RCM) with advan
+ced or end stage cardiomyopathy using a gene panel which covered 46 known cardiomyopathy disease gen
+es. Fifty-three variants with possible impact on disease in 33 patients were identified. Of these 27
+ (51%) were classified as likely pathogenic or pathogenic in the MYH7, MYL2, MYL3, NEXN, TNNC1, TNNI
+3, DES, LMNA, PKP2, PLN, RBM20, TTN, and CRYAB genes. Fifty-six percent (n = 24) of index-patients c
+arried a likely pathogenic or pathogenic mutation. Of these 75% (n = 18) were familial and 25% (n = 
+6) sporadic cases. However, severe cardiomyopathy seemed to be not characterized by a specific mutat
+ion profile. Remarkably, we identified a novel homozygous PKP2-missense variant in a large consangui
+neous family with sudden death in early childhood and several members with heart transplantation in 
+adolescent age.
+
+NO: 4
+Historically, patients bridged on extracorporeal membrane oxygenation (ECMO) to heart transplantatio
+n (HT) have very high post-transplant mortality. In the new heart transplant allocation system, ECMO
+-supported patients have the highest priority for HT. However, data are lacking on the outcomes of t
+hese critically ill patients. We compared the waitlist and post-transplant outcomes of ECMO-supporte
+d patients in the new and old allocation systems. Adult patients supported by ECMO at the time of li
+sting or transplantation who were registered in the United Network for Organ Sharing database betwee
+n November 1, 2015 and September 30, 2019 were included. Clinical characteristics, outcomes in the w
+aitlist, and post-transplant survival were compared between the old and new systems. Cox Proportiona
+l and subdistribution hazard regression models were used to evaluate the variables contributing to t
+he post-transplant and waitlist outcomes RESULTS: A total of 296 ECMO-supported patients were listed
+ for HT. Of these, 191 were distributed to the old system, and 105 were distributed to the new syste
+m. Patients listed in the new system had a higher cumulative incidence of HT (p < 0.001) and lower i
+ncidence of death or removal (p = 0.001) from the transplant list than patients listed in the old sy
+stem. The 6-month survival after transplantation was 74.6% and 90.6% for the old- and new-era patien
+ts, respectively (p = 0.002). Among ECMO-supported patients, being listed or transplanted on the new
+ system was independently associated with improved outcomes in the waitlist and after transplantatio
+n. With the implementation of the new heart transplant allocation system, ECMO-supported patients ha
+ve a shorter waitlist time, improved frequency of HT, and improved short-term post-transplant surviv
+al.
+
+NO: 5
+Cytomegalovirus (CMV) infection remains a major complication after heart transplantation with varyin
+g prophylaxis strategies employed. We sought to determine the impact of valganciclovir (VGC) duratio
+n on the epidemiology of CMV infections after heart transplantation. We performed a prospective coho
+rt study of CMV donor (D) or recipient (R) seropositive heart transplant recipients from 2005 to 201
+2 who completed VGC prophylaxis, ranging from 3 to 12 months according to serostatus and induction i
+mmunosuppression. Univariate and multivariate logistic regression was performed. Among 159 heart tra
+nsplant recipients during the study period, 130 (82%) were eligible for VGC prophylaxis. CMV D/R ser
+ostatus was as follows: 24% D+/R-, 30% D+/R+, and 29% D-/R+. 65% and 21% received basiliximab and th
+ymoglobulin induction, respectively, followed by maintenance tacrolimus, mycophenolate mofetil, and 
+prednisone. Twenty-one (16%) recipients suffered CMV infection. There was no association with comorb
+idities including diabetes mellitus, chronic kidney disease, or mechanical assist devices, nor were 
+there associations with rejection, treatments of rejection, or mortality. When VGC prophylaxis durat
+ion was stratified by ≤6 vs ≥12 months, time from heart transplantation to CMV infection was delayed
+ (median 247 vs 452 days, P = .002) but there was no difference in days from VGC discontinuation to 
+onset of CMV infection (median 72 vs 83 days, P = .31). CMV infection occurred most frequently withi
+n 6-16 weeks of VGC cessation, and 95% of infections occurred during the 6 months post-prophylaxis p
+eriod. Relative to ≤6 months, ≥12 months of VGC did not reduce incidence of CMV infection and only d
+elayed time to onset. 95% of CMV infection occurs within 6 months after cessation of VGC.
+
+NO: 6
+The Canadian status 4S category prioritizes highly sensitized patients with a calculated panel react
+ive antibody (CPRA) > 80% awaiting heart transplantation. We examined the effect of sensitization an
+d status 4S and developed a predictive model to estimate waiting time in Canada. A retrospective rev
+iew was performed of patients listed for heart transplant at the Ottawa Heart Institute and Toronto 
+General Hospital (Ontario, Canada). We evaluated the association of CPRA and priority listing status
+ on waiting time and post-transplant outcomes. Waiting time risk factor analysis was performed using
+ a multivariable parametric accelerated failure time model with a Weibull distribution. Of 394 patie
+nts listed (75% male, 51 ± 12 years), 291 (74%) received a transplant and 33 (8%) died waiting. The 
+cumulative incidence of transplant decreased across higher CPRA groups but was similar for moderatel
+y and highly sensitized groups: 67%, 70%, 50%, and 40% at 12 months for CPRA 0%, 1% to 50%, 51% to 8
+0%, and > 80%, respectively (p = 0.020). Status 4S patients experienced longer waiting times compare
+d with other high priority status 3.5 and 4 and had increased risk of death on the waiting list (p =
+ 0.014). Over a median follow-up of 2.4 years (interquartile range, 1.2-4.1), rejection occurred in 
+64 sensitized patients (24%) compared with 24 non-sensitized patients (9%; p = 0.019), but there was
+ no difference in survival, allograft dysfunction, or cardiac allograft vasculopathy. A model predic
+ting transplant waiting time, including CPRA, blood group, priority listing status, age, and weight,
+ was developed and showed adequate discrimination and calibration. Waiting time to heart transplant 
+is increased for highly and moderately sensitized patients, suggesting the need to reevaluate the CP
+RA > 80% threshold for status 4S prioritization in Canada. Extended waiting times, despite 4S priori
+tization, supports consideration of additional factors to CPRA in ensuring equitable organ access fo
+r sensitized patients.
+
+NO: 7
+Enhanced platelet reactivity may play a role in cardiac allograft vasculopathy (CAV) progression. Th
+e use of antiplatelet agents after heart transplantation (HT) has been inconsistent and although asp
+irin (ASA) is often a part of the medication regimen after HT, limited evidence is available on its 
+benefit. CAV progression was assessed by measuring the difference in plaque volume and plaque index 
+between the last follow-up and the baseline coronary intravascular ultrasound examination. Overall, 
+529 HT recipients were retrospectively analyzed (337 had ≥2 intravascular ultrasound studies). The p
+rogression in plaque volume (P = .007) and plaque index (P = .002) was significantly attenuated amon
+g patients treated with early ASA (within the first year after HT). Over a 6.7-year follow-up, all-c
+ause mortality was lower with early ASA compared with late or no ASA use (P < .001). No cardiac deat
+hs were observed in the early ASA group, and the risk of CAV-related graft dysfunction was significa
+ntly lower in this group (P = .03). However, the composite of all CAV-related events (cardiac death,
+ CAV-related graft dysfunction, or coronary angioplasty) was not significantly different between the
+ groups (P = .16). Early ASA use after HT may delay CAV progression and decrease mortality and CAV-r
+elated graft dysfunction, but does not seem to affect overall CAV-associated events.
+
+NO: 8
+Following second heart transplantation (HTx), some patients experience graft failure and require thi
+rd-time heart transplantation. Little data exist to guide decision-making with regard to repeat retr
+ansplantation in older patients. We performed a retrospective cohort analysis of patients receiving 
+a third HTx, as identified in the United Network for Organ Sharing (UNOS) database from 1985 to 2017
+. The study cohort consisted of N = 60 patients, with an average age of 29 with a standard deviation
+ of ±18 years. Overall survival for the cohort at 1, 5, and 10 years is 83%, 64%, and 44%, respectiv
+ely. The rate of third-time HTxs has steadily increased in all age groups. Patients older than 50 ye
+ars now account for 18.3% of all third-time HTxs. Although this group demonstrated longer average pr
+evious graft survival, after third HTx they demonstrate significantly poorer survival outcomes compa
+red to third-time HTx recipients younger than 21 (P = 0.05). Age over 50, BMI over 30, and diabetes 
+were all found to be independent risk factors for decreased survival following third HTx. We describ
+e trends in patients undergoing third HTx. We highlight subsets of such recipients who exhibit decre
+ased survival.
+
+NO: 9
+Bridge to transplantation (BTT) with left ventricular assist devices (LVADs) is a mainstay of therap
+y for heart failure in patients awaiting heart transplantation (HT). Criteria for HT listing do not 
+differ between patients medically managed and those mechanically bridged to HT. The objectives of th
+e present study were to evaluate the impact of BTT with LVAD on posttransplantation survival, to des
+cribe differences in causes of 1-year mortality in medically and mechanically bridged patients, and 
+to evaluate differences in risk factors for 1-year mortality between those with and those without LV
+AD at the time of HT. Using the United Network of Organ Sharing database, we identified 5486 adult, 
+single-organ HT recipients transplanted between 2008 and 2015. Patients were propensity matched for 
+likelihood of LVAD at the time of HT. Kaplan-Meier survival estimates were used to assess the impact
+ of BTT on 1- and 5-year mortality. Logistic regression analysis was used to evaluate the odds ratio
+ of 1-year mortality for patients BTT with LVAD compared with those with medical management across c
+linically significant variables at various thresholds. Early mortality was higher in mechanically br
+idged patients: 9.5% versus 7.2% mortality at 1 year (P<0.001). BTT patients incurred an increased r
+isk of 1-year mortality with an estimated glomerular filtration rate of 40 to 60 mL·min Bridge to HT
+ with LVAD, although necessary because of organ scarcity and capable of improving wait list survival
+, confers a significantly higher risk of early posttransplantation mortality. Patients bridged with 
+mechanical support may require more careful consideration for transplant eligibility after LVAD plac
+ement.
+
+NO: 10
+Allograft-specific regulatory T cells (T
+
+NO: 11
+Optimizing transplant candidates' priority for donor organs depends on the accurate assessment of po
+st-transplant outcomes. Due to the complexity of transplantation and the wide range of possible seri
+ous complications, recipient outcomes are difficult to predict accurately using conventional multiva
+riable regression. Therefore, we evaluated the utility of 3 ML algorithms for predicting mortality a
+fter pediatric HTx. We identified patients <18 years of age receiving HTx in 2006-2015 in the UNOS R
+egistry database. Mortality within 1, 3, or 5 years was predicted using classification and regressio
+n trees, RFs, and ANN. Each model was trained using cross-validation, then validated in a separate t
+esting set. Model performance was primarily evaluated by the area under the receiver operating chara
+cteristic (AUC) curve. The training set included 2802 patients, whereas 700 were included in the tes
+ting set. RF achieved the best fit to the training data with AUCs of 0.74, 0.68, and 0.64 for 1-, 3-
+, and 5-year mortality, respectively, and performed best in the testing data, with AUCs of 0.72, 0.6
+1, and 0.60, respectively. Nevertheless, sensitivity was poor across models (training: 0.22-0.58; te
+sting: 0.07-0.49). ML algorithms demonstrated fair predictive utility in both training and testing d
+ata, but the sensitivity of these algorithms was generally poor. With the registry missing data on m
+any determinants of long-term survival, the ability of ML methods to predict mortality after pediatr
+ic HTx may be fundamentally limited.
+
+NO: 12
+Refractory postcardiotomy cardiogenic shock complicating cardiac surgery yields nearly 100% mortalit
+y when untreated. Use of venoarterial extracorporeal membrane oxygenation for postcardiotomy cardiog
+enic shock has increased worldwide recently. The aim of the current analysis was to outline the tren
+ds in use, changing patient profiles, and in-hospital outcomes including complications in patients u
+ndergoing venoarterial extracorporeal membrane oxygenation for postcardiotomy cardiogenic shock. Ana
+lysis of extracorporeal life support organization registry from January 2010 to December 2018. Multi
+center worldwide registry. Seven-thousand one-hundred eighty-five patients supported with venoarteri
+al extracorporeal membrane oxygenation for postcardiotomy cardiogenic shock. Venoarterial extracorpo
+real membrane oxygenation. Hospital death, weaning from extracorporeal membrane oxygenation, hospita
+l complications. Mortality predictors were assessed by multivariable logistic regression. Propensity
+ score matching was performed for comparison of peripheral and central cannulation for extracorporea
+l membrane oxygenation. A significant trend toward more extracorporeal membrane oxygenation use in r
+ecent years (coefficient, 0.009; p < 0.001) was found. Mean age was 56.3 ± 14.9 years and significan
+tly increased over time (coefficient, 0.513; p < 0.001). Most commonly, venoarterial extracorporeal 
+membrane oxygenation was instituted after coronary artery bypass surgery (26.8%) and valvular surger
+y (25.6%), followed by heart transplantation (20.7%). Overall, successful extracorporeal membrane ox
+ygenation weaning was possible in 4,520 cases (56.4%), and survival to hospital discharge was achiev
+ed in 41.7% of cases. In-hospital mortality rates remained constant over time (coefficient, -8.775; 
+p = 0.682), whereas complication rates were significantly reduced (coefficient, -0.009; p = 0.003). 
+Higher mortality was observed after coronary artery bypass surgery (65.4%), combined coronary artery
+ bypass surgery with valve (68.4%), and aortic (69.6%) procedures than other indications. Lower mort
+ality rates were observed in heart transplantation recipients (46.0%). Age (p < 0.001), central cann
+ulation (p < 0.001), and occurrence of complications while on extracorporeal membrane oxygenation we
+re independently associated with poorer prognosis. The analysis confirmed increased use of venoarter
+ial extracorporeal membrane oxygenation for postcardiotomy cardiogenic shock. Mortality rates remain
+ed relatively constant over time despite a decrease in complications, in the setting of supporting o
+lder patients.
+
+NO: 13
+Ecthyma gangrenosum is a cutaneous manifestation of severe systemic pseudomonas infection and is com
+monly associated with bacteremia. It is common in immunocompromised patients with underlying neutrop
+enia or leukopenia. We report a patient with heart transplant who developed a single lesion of ecthy
+ma gangrenosum in the absence of bacteremia with a review of reported cases in solid organ transplan
+t patients.
+
+NO: 14
+Cardiomyopathies are a heterogeneous group of heart muscle diseases and an important cause of heart 
+failure (HF). Current knowledge on incidence, pathophysiology and natural history of HF in cardiomyo
+pathies is limited, and distinct features of their therapeutic responses have not been systematicall
+y addressed. Therefore, this position paper focuses on epidemiology, pathophysiology, natural histor
+y and latest developments in treatment of HF in patients with dilated (DCM), hypertrophic (HCM) and 
+restrictive (RCM) cardiomyopathies. In DCM, HF with reduced ejection fraction (HFrEF) has high incid
+ence and prevalence and represents the most frequent cause of death, despite improvements in treatme
+nt. In addition, advanced HF in DCM is one of the leading indications for heart transplantation. In 
+HCM, HF with preserved ejection (HFpEF) affects most patients with obstructive, and ∼10% of patients
+ with non-obstructive HCM. A timely treatment is important, since development of advanced HF, althou
+gh rare in HCM, portends a poor prognosis. In RCM, HFpEF is common, while HFrEF occurs later and mor
+e frequently in amyloidosis or iron overload/haemochromatosis. Irrespective of RCM aetiology, HF is 
+a harbinger of a poor outcome. Recent advances in our understanding of the mechanisms underlying the
+ development of HF in cardiomyopathies have significant implications for therapeutic decision-making
+. In addition, new aetiology-specific treatment options (e.g. enzyme replacement therapy, transthyre
+tin stabilizers, immunoadsorption, immunotherapy, etc.) have shown a potential to improve outcomes. 
+Still, causative therapies of many cardiomyopathies are lacking, highlighting the need for the devel
+opment of effective strategies to prevent and treat HF in cardiomyopathies.
+
+NO: 15
+While severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection primarily causes inflam
+mation in the respiratory system, there is growing evidence of extrapulmonary tissue damage mediated
+ by the host innate immune system in children and adults. A cytokine storm can manifest as a viral-i
+nduced haemophagocytic lymphohistiocytosis (HLH). Here, we present a previously healthy 8-year-old b
+oy with newly diagnosed cardiac injury and COVID-19-related HLH syndrome with haemophagocytosis in b
+one marrow biopsy. After remission of inflammation, the patient underwent a heart transplant due to 
+persistent cardiac failure. The histology of the explanted heart showed only a focal subtle subendoc
+ardial inflammation. Three days after transplant, he developed progressive acute respiratory distres
+s syndrome (ARDS) with the rise of inflammatory markers. He unfortunately died after 20 days because
+ of disseminated intravascular coagulation (DIC). For the first time, we described a child with COVI
+D-19-related HLH and severe cardiac failure, which had a poor prognosis despite a heart transplant.
+
+NO: 16
+Despite significant advances in durable mechanical support survival, infectious complications remain
+ the most common adverse event after ventricular assist device (VAD) implantation and the leading ca
+use of early death after transplantation. In this study, we aim to describe our local infectious epi
+demiology and review short-term survival and infectious incidence rates in the post-transplantation 
+period and assess risk factors for infectious episodes after transplantation. Retrospective single-c
+enter study of all consecutive adult heart transplant patients from 2008 to 2017. Survival data were
+ estimated and summarized using the Kaplan-Meier method. We quantified and evaluated the difference 
+in the incidence rate between patients with and without infection using a Fine-Gray model. The outco
+me of interest is the time to first infection diagnosis with post-transplant death as the competing 
+event. Among 278 heart transplant patients, 74 (26.5%) underwent LVAD implantation. Twenty-one patie
+nts (28.3%) developed an infection while supported by an LVAD. When compared to patients supported b
+y an LVAD without a preceding infection, BMI was significantly greater (31.2 vs 27.8 kg/m Patients w
+ith LVAD-related infection had a significantly increased risk of infectious complications after hear
+t transplantation. Further research on the avoidance of induction agents and reduced maintenance imm
+unosuppression in this patient population is warranted.
+
+NO: 17
+To assess current management strategies for advanced heart failure in adults with congenital heart d
+isease, including heart transplantation and mechanical circulatory support. Current data demonstrate
+ that adults with CHD generally experience higher short-term mortality after heart transplantation a
+nd MCS implantation, but enjoy superior long-term survival. Such patients are nonetheless less likel
+y to receive a transplant than non-ACHD peers due to a variety of factors, including lack of applica
+bility of current listing criteria to HF in ACHD. MCS is underutilized in ACHD, but provides similar
+ quality of life benefits for ACHD and non-ACHD patients alike. Heart failure in ACHD is complex and
+ difficult to treat, and both heart transplantation and mechanical circulatory support are often cha
+llenging to implement in this patient population. However, long-term results are encouraging, and ex
+isting data supports increasing use of MCS and transplant earlier in their disease course. Multidisc
+iplinary care is critical to success in these complex patients.
+
+NO: 18
+Venoarterial extracorporeal membrane oxygenation is a rescue therapy for patients in cardiogenic sho
+ck. We hypothesize that patients bridged to heart transplant with extracorporeal membrane oxygenatio
+n have decreased survival. The United Network of Organ Sharing database was retrospectively reviewed
+ from January 1, 1999, to March 31, 2018, for heart transplant recipients. Recipients bridged with a
+ny form of mechanical support and those without support were compared with recipients bridged with e
+xtracorporeal membrane oxygenation. The primary end point was restricted mean survival time through 
+16.7 years. Of 26,918 recipients, 15,076 required no pretransplant mechanical support (56.0%). Suppo
+rt patients included 9321 with left ventricular assist devices (34.6%), 53 with right ventricular as
+sist devices (0.2%), 258 with total artificial hearts (1.0%), 686 with biventricular assist devices 
+(2.6%), 1378 with intra-aortic balloon pumps (5.1%), and 146 who required extracorporeal membrane ox
+ygenation (0.5%). In the first 16.7 years post-transplant, compared with recipients bridged with ext
+racorporeal membrane oxygenation, estimated adjusted restricted mean survival time was higher in pat
+ients who required no mechanical support (16.6 months [14.0-19.4]) and patients with a left ventricu
+lar assist device (16.5 months [99% confidence interval, 13.9-19.2]), an intra-aortic balloon pump (
+11.2 months [8.3-14.7]), or a biventricular assist device (6.6 months [3.6-10.3]). Restricted mean s
+urvival time in patients with a right ventricular assist device or a total artificial heart was simi
+lar to patients with extracorporeal membrane oxygenation. Recipients bridged with extracorporeal mem
+brane oxygenation were estimated to survive 16.6 months less than nonmechanical circulatory support 
+recipients. Bridge to heart transplant with extracorporeal membrane oxygenation is a viable option, 
+and these patients should be considered transplant candidates.
+
+NO: 19
+Outcomes have improved in patients bridged to heart transplant on contemporary continuous-flow ventr
+icular assist devices over the past decade. We evaluated mechanical circulatory support as a means t
+o bridge patients to cardiac retransplantation. We retrospectively reviewed 464 patients who underwe
+nt cardiac retransplant from the United Network for Organ Sharing database between January 2006 and 
+November 2016. Pre- and post-transplant data were compared between patients bridged to retransplant 
+with mechanical circulatory support (n = 81) and those without mechanical circulatory support (n = 3
+83). The mean ages for the patients in the mechanical circulatory support and nonmechanical circulat
+ory support cohorts were 41.2 ± 16 years and 42.1 ± 15.7 years, respectively (P = .64). Patients bri
+dged with mechanical circulatory support were placed on extracorporeal membrane oxygenation (n = 29,
+ 35.8%), a total artificial heart (n = 13, 16.0%), or a temporary or durable ventricular assist devi
+ce (n = 39, 48.1%). Twelve patients (14.8%) were placed on a second device before retransplant. Thir
+ty-nine percent of the mechanical circulatory support group were indicated for listing because of pr
+imary graft dysfunction or acute rejection versus 6% of the nonmechanical circulatory support group 
+(P < .01). Likewise, 30% of patients in the mechanical circulatory support group were listed for car
+diac allograft vasculopathy compared with 59% of the nonmechanical circulatory support group (P < .0
+1). Thirty-day mortality was significantly higher in the mechanical circulatory support group (17.8%
+ vs 4.8%, P < .01). However, patients who were bridged with a ventricular assist device or total art
+ificial heart had comparable midterm outcomes to the nonmechanical circulatory support group. Patien
+ts who require mechanical circulatory support bridge to retransplantation belong to a high-risk coho
+rt. Comparable midterm outcomes to the nonmechanical circulatory support cohort were demonstrated wh
+en patients' conditions allow for bridge with a ventricular assist device or total artificial heart.
+ Bridging to retransplantation with extracorporeal membrane oxygenation remains a relative contraind
+ication.
+
+NO: 20
+Cardiac allograft vasculopathy (CAV) is a major cause of morbidity and mortality following heart tra
+nsplantation (HT). Reduced cardiovascular mortality and morbidity have been reported in non-HT patie
+nts treated with metformin. Given the high prevalence of type 2 diabetes mellitus (T2DM) in HT patie
+nts, we investigated the association between metformin therapy and cardiovascular outcomes after HT.
+ The study population comprised 103 DM patients who had undergone HT between 1994 and 2018 and were 
+prospectively followed-up. We excluded from the study patients with type 1 diabetes mellitus. Fifty-
+five HT patients (53%) in the cohort were treated with metformin. Clinical data were recorded on pro
+spectively designed forms. The primary outcomes included CAV, survival, and the combined end-point o
+f CAV or cardiovascular mortality. Kaplan-Meier survival analysis showed that the CAV rate at 20 yea
+rs of follow-up was lower in DM patients treated with metformin than in those who were not (30 vs. 6
+5%; log-rank p = 0.044). Similarly, the combined risk of CAV or cardiovascular mortality was lower i
+n the metformin-treated patients than in those not receiving metformin (32 vs. 68%; log rank p = 0.0
+1). Consistently, multivariate analysis adjusted for age and comorbidities showed that metformin the
+rapy was independently associated with a significant 90% reduction (95% confidence interval 0.02-0.4
+6, p = 0.003) in the risk for the development of CAV, and a 91% reduction (95% confidence interval 0
+.02-0.42; p = 0.003) in the risk for CAV or cardiovascular mortality. In diabetic HT patients, metfo
+rmin therapy is independently associated with a significant reduction in the long-term risk for CAV 
+and the combined end-point of CAV or cardiovascular mortality after HT.
+
+NO: 21
+Heart transplant recipients are at risk for a number of post-transplantation complications such as g
+raft dysfunction, rejection, and infection. The rates of many complications are decreasing over time
+, and prognosis is improving. However, these patients continue to experience significant morbidity a
+nd mortality. This review focuses on the optimal management of heart transplant recipients in the po
+stoperative period, based on current knowledge. More information is needed about the best ways to pr
+edict, prevent, and treat primary graft dysfunction, right ventricular failure, and cellular and ant
+ibody-mediated rejection.
+
+NO: 22
+Left ventricular assist devices are funded in the UK exclusively as a bridge to transplant (BTT). Ho
+wever, patients who potentially could receive a transplant may develop reversible contraindications 
+to transplant. Bridge to candidacy (BTC) has sometimes been controversial, given the uncertain clini
+cal efficacy of BTC and the risk that reimbursement could be denied. We analysed the UK ventricular 
+assist device database to understand how common BTC was and to assess patient survival rates and inc
+idences of transplants. We identified BTC implants in patients with pulmonary hypertension, chronic 
+kidney disease and obesity using the UK guidelines for heart transplants. A total of 306 of 540 pati
+ents had complete data and 157 were identified as BTC (51%). Overall, there was no difference in sur
+vival rates between patients designated as BTC and those designated at BTT (71.9 vs 72.9% at 1 year,
+ respectively; P = 0.82). However, the survival rate was lower at all time points in those with an e
+stimated glomerular filtration rate (eGFR) <40 and in patients with a body mass index (BMI) >32 up t
+o 1-year postimplant. There were no significant differences in the incidence of transplant between p
+atients who were BTC and BTT or for any subgroup up to 5 years. However, we noted a diverging trend 
+towards a lower cumulative incidence of transplant for patients with a BMI >32. BTC is common in the
+ UK and appears clinically effective, given that the survival rates and the incidence of transplants
+ were comparable with those for BTT. Patients with a high BMI have a worse survival rate through to 
+1 year and a trend for a lower incidence of a transplant. Patients with a low eGFR also have a worse
+ survival rate, but a similar proportion received transplants.
+
+NO: 23
+Perioperative cardiac xenograft dysfunction (PCXD) was described by McGregor and colleagues as a maj
+or barrier to the translation of heterotopic cardiac xenotransplantation into the orthotopic positio
+n. It is characterized by graft dysfunction in the absence of rejection within 24 to 48 hours of tra
+nsplantation. We describe our experience with PCXD at a single program. Orthotopic transplantation o
+f genetically engineered pig hearts was performed in 6 healthy baboons. The immunosuppression regime
+n included induction by anti-CD20 monoclonal antibodies (mAb), thymoglobulin, cobra venom factor, an
+d anti-CD40 mAb, and maintenance with anti-CD40 mAb, mycophenolate mofetil, and tapering doses of st
+eroids. Telemetry was used to assess graft function. Extracorporeal membrane oxygenation was used to
+ support 1 recipient. A full human clinical transplantation team was involved in these experiments a
+nd the procedure was performed by skilled transplantation surgeons. A maximal survival of 40 hours w
+as achieved in these experiments. The surgical procedures were uneventful, and all hearts were weane
+d from cardiopulmonary bypass without issue. Support with inotropes and vasopressors was generally r
+equired after separation from cardiopulmonary bypass. The cardiac xenografts performed well immediat
+ely, but within the first several hours they required increasing support and ultimately resulted in 
+arrest despite maximal interventions. All hearts were explanted immediately; histology showed no sig
+ns of rejection. Despite excellent surgical technique, uneventful weaning from cardiopulmonary bypas
+s, and adequate initial function, orthotopic cardiac xenografts slowly fail within 24 to 48 hours wi
+thout evidence of rejection. Modification of preservation techniques and minimizing donor organ isch
+emic time may be able to ameliorate PCXD.
+
+NO: 24
+Cardiac allografts from donors with a history of cocaine use (DHCU) are often discarded owing to con
+cerns regarding organ quality. We investigated long-term outcomes of de novo adult heart transplanta
+tion (HTx) using DHCU. Using the International Society for Heart and Lung Transplantation Thoracic O
+rgan Transplant Registry, we identified 24,430 adult recipients of primary, deceased donor, heart-al
+one transplants between January 1, 2000, and June 30, 2013. Transplants were categorized on the basi
+s of DHCU. Survival rates were compared using Kaplan-Meier curves and log-rank tests. A total of 3,2
+46 (13.3%) HTx were performed using DHCU during the study period. Of these, 1,477 (45.5%) were class
+ified as current users. Organs from DHCU were transplanted at a later sequence number (data from a s
+ub-group of patients transplanted in the United States) than those from the non-cocaine use group (m
+ean sequence number 16.1 ± 55.6 vs 11.5 ± 38.2; p < 0.001), suggesting higher decline rates by cente
+rs. Kaplan-Meier estimates of survival were not different between groups (p = 0.16), with post-trans
+plant survival rates at 1, 5, and 10 years of 88.1%, 75.8%, and 58.5%, respectively, in the non-coca
+ine use group and 90.0%, 76.7%, and 59.7%, respectively, in the DHCU group. On multivariate analysis
+, DHCU were not associated with mortality (hazard ratio [HR]: 0.94; 95% CI: 0.88-1.00; p = 0.050), c
+ardiac allograft vasculopathy (HR: 1.02; 95% CI: 0.94-1.11; p = 0.56), or allograft rejection (HR: 0
+.98; 95% CI: 0.92-1.05; p = 0.61). Our findings demonstrate that adult HTx performed using DHCU is n
+ot associated with an adverse impact on long-term clinical outcomes. These findings should spur effo
+rts to reduce discard rates of organs from DHCU.
+
+NO: 25
+Although several electrocardiographic features of arrhythmogenic right ventricular cardiomyopathy (A
+RVC) (also called dysplasia) have been described, total 12-lead QRS voltage is not one of them. This
+ report describes total 12-lead QRS voltage in 11 patients with ARVC who underwent orthotopic heart 
+transplantation (OHT) because of progressively severe heart failure. Additionally, it illustrates th
+e varied morphologic features of ARVC. The total 12-lead nonpaced QRS voltages before OHT ranged fro
+m 28 to 118 mm (mean 74 ± 32), and those in the paced tracings, from 33 to 129 mm (62 ± 32). The vol
+tages are the lowest we have encountered among 12 previously reported cardiovascular conditions. The
+ heart weights among the 11 ARVC patients ranged from 285 to 670 g (mean 448 ± 125). Very low 12-lea
+d QRS voltage is characteristic of patients with ARVC with heart failure severe enough to warrant OH
+T, and thus may serve as a clue to its diagnosis.
+
+NO: 26
+Cardiac allograft vasculopathy (CAV) remains a major impediment to long-term survival after heart tr
+ansplantation (HT). We investigated the incidence, disease course, and risk factors for CAV. Among 3
+99 patients who underwent HT between November 1992 and July 2014, 297 survivors were reviewed. Endpo
+ints were CAV development and the composite outcome of death or re-HT. During 5.6±5.2 years, CAV was
+ detected in 54 patients: 45 (83.3%), 8 (14.8%), and 1 (1.8%) patients for CAV 1, 2, and 3, respecti
+vely. At 1, 5, and 10 years, 99.0%, 82.4%, and 60.3% of patients were free of CAV, respectively. Onl
+y four patients (7.4%) showed progression over 4.8±2.1 years' follow-up. The presence of CAV did not
+ affect the composite outcome (P=.89). Predictors of CAV included donor age (HR1.06, 95% CI: 1.03-1.
+10: P<.001), recipient age (1.03 [1.003-1.06]; P=.03), ischemic time >240 minutes (3.15 [1.36-7.28],
+ P=.007), postoperative renal replacement therapy (RRT) (7.1 [2.3-21.8]; P=.001), and triglyceride l
+evel at 1 year post-HT (1.005 [1.002-1.008], P=.003). CAV incidence after HT appears acceptable, wit
+h most cases being stationary and inconsequential for survival. Development of CAV seems to be influ
+enced by donor and recipient age, ischemic time, postoperative RRT, and high triglyceride level.
+
+NO: 27
+The effect of the new donor heart allocation system on survival following bridging to transplantatio
+n with venous-arterial extracorporeal membrane oxygenation remains unknown. The new allocation syste
+m places extracorporeal membrane oxygenation-supported candidates at the highest status. The United 
+Network for Organ Sharing database was queried for adults bridged to single-organ heart transplantat
+ion with extracorporeal membrane oxygenation from October 2006 to February 2020. Association between
+ implementation of the new system and recipient survival was analyzed using Kaplan-Meier estimates, 
+Cox proportional hazards models, and propensity score matching. Of 364 recipients included, 173 and 
+191 were transplanted under new and old systems, respectively. Compared with the old system, waitlis
+t time was halved under the new system (5 versus 10 days,  Recipients transplanted following extraco
+rporeal membrane oxygenation bridging to transplantation under the new system achieve greater 180-da
+y survival compared with the old and demonstrate less preoperative comorbidity. Waitlist outcomes ha
+ve also improved significantly under the new allocation system.
+
+NO: 28
+Primary graft dysfunction (PGD) remains a significant cause of post-transplant morbidity and mortali
+ty. The exact mechanism and risk factors for this phenomenon remain unknown in the contemporary era.
+ In this study we reviewed adult patients undergoing heart transplantation (HT) at our institution b
+etween 2009 and 2017. Severe PGD was defined as the need for mechanical circulatory support (MCS) wi
+thin the first 24 hours after HT. Multivariate logistic regression analysis was used to identify ris
+k factors for severe PGD, focusing on those bridged to transplant (BTT) with a continuous-flow left 
+ventricular assist device (CF-LVAD). Fifty-six of 480 (11.7%) HT patients experienced severe PGD. Ei
+ghty percent of the severe PGD patients were BTT with a CF-LVAD (odds ratio [OR] 3.86, 95% confidenc
+e interval [CI] 1.94 to 7.68, p < 0.001). Among the BTT patients, significant associations between >
+1 year of CF-LVAD support (OR 2.48, 95% CI 1.14 to 5.40, p = 0.022), pre-HT creatinine (OR 3.35, 95%
+ CI 1.42 to 7.92, p = 0.006), elevated central venous pressure/pulmonary capillary wedge pressure (C
+VP/PCWP) ratio (OR 3.32, 95% CI 1.04 to 10.60, p = 0.043), use of amiodarone before HT (OR 2.69, 95%
+ CI 1.20 to 6.20, p = 0.022), and severe PGD were identified. RADIAL score did not accurately predic
+t severe PGD in this contemporary cohort. Those patients who developed severe PGD had decreased 1-ye
+ar post-transplant survival (78.3% vs 91.8%, p = 0.007). Use of CF-LVAD as BTT is associated with an
+ increased risk of severe PGD. Increased time on device support, renal dysfunction, right ventricula
+r dysfunction as assessed by CVP/PCWP ratio, and pre-transplant amiodarone may identify those patien
+ts at high risk. Further research is warranted focusing on optimal timing of device implantation and
+ transplantation, as well as the underlying mechanisms of PGD.
+
+NO: 29
+We report the case of a 3-year-old male who developed recurrent Clostridium difficile infection afte
+r receiving an orthotopic heart transplant. Despite multiple courses of antibiotics, C. difficile in
+fection was persistent and he underwent a fecal microbiota transplant. The patient responded with re
+solution of his diarrhea. However, within 2 months he developed severe mixed rejection with high cir
+culating donor-specific antibodies and significant coronary vasculopathy. Organ dysfunction led to t
+he need for re-transplantation. The patient's postoperative course has since been complicated by pne
+umatosis intestinalis and recurrent C. difficile infection.
+
+NO: 30
+Pediatric sHKTx remains uncommon in the US. We examined outcomes of pediatric sHKTx compared to PHTx
+ alone. Our objective was to identify a threshold eGFR that justified pediatric sHKTx. Data from the
+ SRTR heart and kidney databases were used to identify 9245 PHTx, and 63 pediatric sHKTx performed b
+etween 1992 and 2017 (age ≤21 years). The median age for sHKTx was 16 years, and included 31 males (
+31/63 = 49%). Over half of sHKTx (36/63 = 57%) were performed in cases where pretransplant dialysis 
+was initiated. Among patients who required pretransplant dialysis, the risk of death in sHKTx recipi
+ents was significantly lower than PHTx alone (sHKTx vs. PHTx: HR 0.4, 95% CI [0.2, 0.9], p = .01). I
+n those without pretransplant dialysis, there was no improvement in survival between sHKTx and PHTx 
+(p = .2). When stratified by eGFR, PHTx alone recipients had worse survival than sHKTx in the group 
+with eGFR ≤35 ml/min/1.73 m Pediatric sHKTx should be considered in HTx candidates with kidney failu
+re requiring dialysis or eGFR ≤35 ml/min/1.73 m
+
+NO: 31
+Heart transplantation is the definitive management for select patients with end-stage heart failure.
+ Owing to an ongoing organ donor shortage, organs are sometimes allocated from distant locales. Thes
+e organs may be perceived as less desirable because of donor risk factors and ischemic times. We com
+pared survival after heart transplantation by donors originating from British Columbia (BC), other C
+anadian provinces, and the United States. This retrospective cohort analysis included all patients t
+ransplanted in BC between December 1, 1988, and October 21, 2014, and excluded those with missing da
+ta or retransplantation. Among 382 patients, 297 (77.7%) recipients and 238 (62.3%) donors were male
+. The median recipient age was 54.6 years (interquartile range, 46.0-61.0 years) and the median dono
+r age was 33 years (interquartile range, 22-46 years). Overall 10-year survival was 62.1% (95% confi
+dence interval, 56.3-67.4). There was no difference in 10-year survival when comparing donors from B
+C, other Canadian provinces, and the United States despite significantly lower median ischemic times
+ in donors from BC. Donor location was not predictive of mortality after controlling for recipient a
+ge, donor age, and cold ischemic time. Donor origin did not impact 10-year survival after heart tran
+splantation despite increased ischemic time, suggesting that distant donors result in similar outcom
+es in BC.
+
+NO: 32
+Thymic function decreases progressively with age but may be boosted in certain circumstances. We que
+stioned whether heart transplantation was such a situation and whether thymic function was related t
+o the onset of rejection. Twenty-eight antithymocyte globulin-treated heart transplant recipients we
+re included. Patients diagnosed for an antibody-mediated rejection on endomyocardial biopsy had a hi
+gher proportion of circulating recent thymic emigrant CD4+ T cells and T cell receptor excision circ
+le levels than other transplanted subjects. Thymus volume and density, assessed by computed tomograp
+hy in a subset of patients, was also higher in patients experiencing antibody-mediated rejection. We
+ demonstrate that thymic function is a major determinant of onset of antibody-mediated rejection and
+ question whether thymectomy could be a prophylactic strategy to prevent alloimmune humoral response
+s.
+
+NO: 33
+In donation after circulatory death heart transplantation, the donor heart is exposed to circulatory
+ load. The right ventricle, due to its structure, has high compliance for volume load but is particu
+larly vulnerable to increased pressure load. This study used a porcine model to conduct a functional
+ assessment of the hemodynamics of the heart, with a focus on the right ventricle. Six pigs weighing
+ 24.6 ± 1.4 kg were used. Circulatory death was induced by asphyxiation after median sternotomy. Aft
+er 30 minutes in the state of global warm ischemia, the ascending aorta was clamped, followed by a 2
+0-minute reperfusion of the heart with a 20°C blood cardioplegia solution. Systemic circulation was 
+established by cardiopulmonary bypass after aortic cross-clamping. After initial reperfusion, the bl
+ood cardioplegia solution was replaced with blood. The blood was then rewarmed while the heart was s
+till in a non-working state. Cardiac function was assessed twice in situ, first by the thermodilutio
+n method, and then, by the pressure-volume measurement both at preischemia and at three hours after 
+initiation of reperfusion. The recovery rate of cardiac output was 75%. End-systolic elastance (P = 
+.02) and pulmonary arterial elastance significantly increased (P = .03), but the ratio of arterial e
+lastance to end-systolic elastance was preserved (P = .91) in the right ventricle. Despite a decreas
+e in cardiac output after reperfusion from warm ischemia, the right ventricle had a potential to res
+pond the elevated afterload. It is important that donations after circulatory death heart transplant
+ation should be performed with attention to avoiding right ventricular distension.
+
+NO: 34
+Background The impact of donor obesity on the outcome of orthotopic heart transplantation has not be
+en studied. The aim of this study was to investigate the impact of donor obesity on the outcomes of 
+adult orthotopic heart transplantation recipients. Methods and Results Data were obtained from the U
+nited Network for Organ Sharing database. All adult (age ≥18 years) patients undergoing orthotopic h
+eart transplantation from 2000 through 2016 were included (n=31 920). We stratified the cohort by do
+nor body mass index ( BMI ); 13 015 patients (40.8%) received a heart from a normal-weight donor ( B
+MI 18.5-24.9), 11 271 patients (35.3%) received a heart from an overweight donor ( BMI 25.0-29.9), 4
+910 patients (15.4%) received a heart from an obese donor ( BMI 30.0-34.9), and 2724 patients (8.5%)
+ received a heart from an extremely obese donor ( BMI ≥35). The cohort of obese donors was older, in
+cluded a higher incidence of diabetes mellitus, and had a higher creatinine. Our data also showed th
+at the recipients of obese donor grafts were older, had a higher BMI , creatinine, percentage of dia
+betes mellitus, and longer total waiting period. There was no significant difference detected in the
+ survival likelihood ( P=0.08) of patients based on a donor's BMI-based categorized cohort. There we
+re no significant differences found in the overall survival probability among 4 groups in the adjust
+ed survival analyses ( P=0.25). Conclusions This study demonstrated that patients receiving higher B
+MI donor hearts might not be subjected to an increased risk of death, at least during the short term
+ after transplant, compared with those using the normal-weight donors.
+
+NO: 35
+Management of the increasing number of sensitized heart transplant candidates has become a recurrent
+ issue. Rather than using pretransplant desensitization therapies, we used a posttransplant prophyla
+ctic strategy. Our aim was to describe outcomes in transplant recipients with preformed donor-specif
+ic anti-HLA antibodies (pfDSA) managed with this strategy. A posttransplant protocol was applied to 
+patients transplanted with pfDSA, consisting of perioperative management of DSA (polyvalent immunogl
+obulins +/- perioperative plasmapheresis sessions, according to DSA level, as well as induction ther
+apy) and systematic treatment of subsequent antibody-mediated rejection (AMR), even when subclinical
+. We performed a retrospective analysis of this prospective protocol. The study included all consecu
+tive first recipients of a noncombined heart transplant performed between 2009 and 2015 at our cente
+r. The primary endpoint was all-cause mortality. Secondary endpoints included primary graft dysfunct
+ion, early posttransplant bleeding, rejection, and cardiac allograft vasculopathy-free survival. A t
+otal of 523 patients were studied, including 88 (17%) and 194 (37%) transplanted with DSA mean fluor
+escence intensity (MFI) of 500 to 1000 and greater than 1000, respectively. The median follow-up per
+iod was 4.06 years. Survival was not significantly different between groups. Rejection-free survival
+ was worse in patients with pfDSA MFI >1000, evidenced by a fourfold increase in the risk of antibod
+y-mediated rejection. The incidence of primary graft dysfunction and cardiac allograft vasculopathy-
+free survival did not significantly differ between groups. Perioperative plasmapheresis increased th
+e risk for transfusion of packed red blood cells. This exclusively posttransplant prophylactic strat
+egy achieved favorable outcomes in heart transplant recipients with pfDSA.
+
+NO: 36
+Long-term corticosteroid (CS) maintenance remains an effective option for immunosuppression followin
+g heart transplantation. We used the International Society for Heart and Lung Transplantation Regist
+ry to examine characteristics and long-term survival among heart transplant recipients with differen
+t duration of CS therapy. Primary adult heart recipients transplanted between 2000 and 2008 who surv
+ived at least 5 years were categorized into three groups according to CS use: early withdrawal (≤2 y
+ears) (EARLY D/C), late withdrawal (between 2 and 5 years) (LATE D/C), or long-term use (>5 years) (
+LONG-TERM). Recipient and donor characteristics, post-transplant morbidities, and mortality were com
+pared among groups. Kaplan-Meier was used to estimate survival up to 10 years post-transplant. The s
+tudy cohort included 8161 recipients (2043 in EARLY D/C; 2031 in LATE D/C; and 4087 in LONG-TERM). L
+ONG-TERM use of CS decreased over time, from 60% in 2000 to 43% in 2008, while EARLY D/C increased f
+rom 19% to 33%, respectively. Survival at 10 years after transplant was lower among the LONG-TERM gr
+oup (73% vs EARLY D/C 82% vs LATE D/C 80%; P < 0.0001). In this large multinational cohort, the prac
+tice of long-term CS maintenance was associated with lower long-term survival compared with shorter 
+CS use.
+
+NO: 37
+Heart transplantation results in complete denervation of the donor heart with loss of afferent and e
+fferent nerve connections. The majority of patients remain completely denervated during the first 6-
+12 months following transplantation. Evidence of reinnervation is usually found during the second ye
+ar after transplantation and involve the myocardial muscle, sinoatrial node, and coronary vessels, b
+ut remains incomplete and regionally limited many years post-transplant. Restoration of cardiac inne
+rvation can improve exercise capacity as well as blood flow regulation in the coronary arteries, and
+ hence improve quality of life. As yet, there is no evidence that the reinnervation process is assoc
+iated with the occurrence of allograft-related events or survival.
+
+NO: 38
+Berlin Heart EXCOR Pediatric Ventricular Assist Device (BHE) (Berlin Heart AG, Berlin, Germany, BHE)
+ is used worldwide for mechanical circulatory support as a bridge to transplantation or recovery for
+ children with end-stage heart failure. The study aim was to evaluate morbidity and mortality of chi
+ldren less than one year old supported with BHE to identify predictors of adverse outcomes. Data of 
+all children aged less than one year supported with BHE between 2005 and 2018 at the Royal Children'
+s Hospital, Melbourne were reviewed. Adverse events were defined using PediMACS criteria. Fourteen (
+14) children under 1 year of age were implanted with BHE at a median age and weight of 0.37 years (I
+QR 0.09-0.7) and 5.7 kg (IQR 3.5-7.95) respectively. Four (4) patients were neonates, and 10 were ol
+der infants. Twelve (12) patients had cardiomyopathy and two, myocarditis. Preoperative extracorpore
+al membrane oxygenation (ECMO) support was required in six patients for a mean of 9 days (IQR 6-13).
+ Sepsis occurred in five patients (36%) and thromboembolic stroke in two patients (14%). Survival to
+ bridge to transplantation (11) and recovery (1) was achieved in 12 patients (86%). Mortality was 14
+%. The median duration of BHE support was 110 days (IQR 40-161). Both patients who died were neonate
+s with myocarditis and required surgical re-intervention during BHE support. BHE provides excellent 
+support as a bridge to transplantation or recovery in infants, with a low incidence of neurological 
+dysfunction. Neonates with myocarditis may be at greater risk for death after BHE implantation.
+
+NO: 39
+Cardiomyopathy is a common complication among muscular dystrophy (MD) patients and often results in 
+advanced heart failure and premature death. In spite of this, there is hesitancy to consider heart t
+ransplantation (HTx). This study describes the HTx outcomes in patients with MD in the United States
+. All HTx in the United Network for Organ Sharing database from October 1, 1987, to March 31, 2016, 
+were identified. Two patient groups were created: MD cohort (n=81), and a cohort of all other cardio
+myopathies, called cardiomyopathy-unmatched (n=41 317). Propensity score matching (ratio 1:2) was pe
+rformed on transplant age, gender transplant year, renal function, and inotropic support at transpla
+nt to form a cardiomyopathy-matched cohort (n=162). Patient characteristics and posttransplant outco
+mes were compared. In the 81 patients with MD, Becker was the most common type (42%-52%). All the an
+alyzed preoperative characteristics did not statistically differ between the MD and cardiomyopathy-m
+atched cohorts except ventricular assist device use (16% versus 30%;  Patients with MD undergoing HT
+x had similar long-term posttransplant survival compared with matched cardiomyopathy-related HTx rec
+ipients. HTx appears to be an effective treatment for a select group of muscular dystrophy patients 
+with end-stage heart failure.
+
+NO: 40
+Recipients of nonrenal organ transplants, including the heart, are at risk for developing acute kidn
+ey injury (AKI). This situation significantly jeopardized the outcome of patients. The most effectiv
+e treatment is continuous renal replacement therapy (CRRT) AIM: The goal of this project is to verif
+y the prognostic value of preoperative serum creatinine concentration and glomerular filtration rate
+ (GFR), calculated by the Modification of Diet in Renal Disease formula, to determine the risk of re
+nal failure after grafting RESULTS: In the group of 39 patients, CRRT was needed in 7 patients (17.9
+%; group K); 32 patients were in the control group (group C). The pretransplant creatinine level in 
+group K was 133.7 ± 31.3 μmol/L and in group C was 160.8 ± 97.6 μmol/L; P = .47. We did not find a d
+ifference between groups in GFR: group K 51 ± 6mL/min/1.73 m Developing AKI requiring CRRT after hea
+rt transplantation prolonged the length of ICU stays. Preoperative creatinine concentration and glom
+erular filtration rate do not predict AKI.
+
+NO: 41
+Recent reports demonstrated that patients with heart failure (HF) might have an increased risk to de
+velop malignancies. This is also seen in patients with chronic kidney disease (CKD). Immunosuppressi
+on in heart transplantation (HT) recipients additionally increases the risk of malignancies. The aim
+ of this study was to determine the relation between HF duration and CKD pre-HT and the risk of mali
+gnancy development post-HT. We included all adult HT recipients transplanted between January 2000 an
+d November 2017 in our centre. Patients were excluded if they died or were retransplanted within 3 m
+onths post-HT. Clinical characteristics were retrospectively collected. Sixty out of 250 patients (2
+4%) developed a malignancy after a median of 66 months [interquartile range 33-108] post-HT. In mult
+ivariable Cox regression analysis, HF duration was not a risk factor for all malignancies or solid o
+rgan malignancies post-HT [hazard ratio (HR) 1.033 (0.974-1.096), P = 0.281 and HR 1.036 (0.958-1.12
+0), P = 0.376, respectively]. Age [HR 1.051 (1.016-1.086), P = 0.004] and CKD pre-HT [HR 2.173 (1.23
+6-3.822), P = 0.007] were independent risk factors for all malignancies. CKD pre-HT [HR 2.542 (1.142
+-5.661), P = 0.022] increased the risk for solid organ malignancies. Exclusion of patients with dura
+ble mechanical circulatory support in the analysis did not alter the significance of these risk fact
+ors. Duration of HF pre-HT was not associated with malignancy risk post-HT. CKD was an independent r
+isk factor for malignancies post-HT. More studies are needed to investigate this association.
+
+NO: 42
+A four- and a half-month-old girl with severe dilated cardiomyopathy due to neonatal enterovirus myo
+carditis, treated with diuretics and milrinone for the past 4 months, was infected with SARS-CoV-2. 
+The disease course was characterised by high fever and gastrointestinal symptoms. Cardiac function, 
+as measured by echocardiography, remained stable. The treatment focused on maintaining a normal hear
+t rate and a stable fluid balance. In children with severe underlying cardiac disease, even a mild S
+ARS-CoV-2 infection can require close monitoring and compound treatment.
+
+NO: 43
+This study aims to understand the complex factors affecting heart transplant survival and to determi
+ne the importance of possible sex-specific risk factors. Heart transplant allocation is primarily fo
+cused on preventing waitlist mortality. To prevent organ wastage, future allocation must balance ris
+k of waitlist mortality with post-transplantation mortality. However, more information regarding ris
+k factors after heart transplantation is needed. We included all adults (30,606) in the Scientific R
+egistry of Transplant Recipients database who underwent isolated heart transplantation from January 
+1, 2004, to July 1, 2018. Mortality (8,278 deaths) was verified with the complete Social Security De
+ath Index with a median follow-up of 3.9 years. Temporal decomposition was used to identify phases o
+f survival and phase-specific risk factors. The random survival forests method was used to determine
+ importance of mortality risk factors and their interactions. We identified 3 phases of mortality ri
+sk: early post-transplantation, constant, and late. Sex was not a significant risk factor. There wer
+e several interactions predicting early mortality such as pretransplantation mechanical ventilation 
+with presence of end-organ function (bilirubin, renal function) and interactions predicting later mo
+rtality such as diabetes and older age (donor and recipient). More complex interactions predicting e
+arly-, mid-, and late-mortality existed and were identified with machine learning (i.e., elevated bi
+lirubin, mechanical ventilation, and dialysis). Post-heart transplant mortality risk is complex and 
+dynamic, changing with time and events. Sex is not an important mortality risk factor. To prevent or
+gan wastage, end-organ dysfunction should be resolved before transplantation as much as possible.
+
+NO: 44
+Veno-arterial extracorporeal membrane oxygenation is a valuable therapeutic approach in patients wit
+h severe heart failure due to different etiologies. Current prognosis with veno-arterial extracorpor
+eal membrane oxygenation is unsatisfactory, and the risk stratification is still challenging. Theref
+ore, we aimed to evaluate the predictive value of different baseline model for end-stage liver disea
+se scores for survival in patients with veno-arterial extracorporeal membrane oxygenation. We conduc
+ted an observational, retrospective study of consecutive veno-arterial extracorporeal membrane oxyge
+nation-treated patients between January 2012 and August 2018. The four types of model for end-stage 
+liver disease scores-model for end-stage liver disease, international normalized ratio-excluded mode
+l for end-stage liver disease, modified model for end-stage liver disease, and model for end-stage l
+iver disease with sodium-were calculated preoperatively. Veno-arterial extracorporeal membrane oxyge
+nation was used based on the four clinical indications: primer graft failure after heart transplanta
+tion, weaning failure from cardiopulmonary bypass, acute myocardial infarction with refractory cardi
+ogenic shock, and bridge to transplantation or bridge to candidacy. The primary endpoint of the stud
+y was overall mortality. The secondary endpoint was in-hospital mortality. We performed univariable 
+and multivariable Cox regression analyses. Data from 135 patients were analyzed. The median follow-u
+p was 952 days (interquartile range = 417-1555 days). In-hospital mortality was 62.2%, and overall m
+ortality was 71.1%. The multivariable Cox regression analysis is adjusted for indication, and the su
+rvival after veno-arterial extracorporeal membrane oxygenation score showed that the following score
+s were associated with overall mortality: model for end-stage liver disease (hazard ratio = 1.04; 95
+% confidence interval = 1.01-1.07;  Model for end-stage liver disease, modified model for end-stage 
+liver disease, and model for end-stage liver disease with sodium scores could be useful in the risk 
+stratification of veno-arterial extracorporeal membrane oxygenation treatment in varying clinical in
+dications.
+
+NO: 45
+Left ventricular distention can be recognized during the use of venoarterial extracorporeal membrane
+ oxygenation as a key complication. Left ventricular decompression may decrease pulmonary pressure, 
+minimize ventricular distention, and allow myocardial recovery. We applied venoarterial extracorpore
+al membrane oxygenation to 4 patients while on a wait list for cardiac transplant. Two patients with
+ severe heart failure developed high end-diastolic pressures leading to left ventricular distention.
+ We used atrial venting methods to decrease the pressure. Here, we discussed the strategies to manag
+e ventricular distention by conservative, interventional, and surgical means.
+
+NO: 46
+Yogurt is a nutrient-rich food and the beneficial effects of yogurt on both health and immunomodulat
+ory effects are well documented. In this pilot study, we investigated the effects of commercially pr
+oduced yogurt R-1 on alloimmune responses in a murine cardiac transplantation model. The R-1 is prod
+uced by Meiji Co., Ltd., and contains live and active lactic acid bacteria (lactobacillus bulgaricus
+ OLL1073R-1) mainly. CBA (H2
+
+NO: 47
+To analyze an unusual case of widespread chorioretinopathy after cardiac transplantation for its pot
+ential etiology and clinical significance. Clinical examinations included widefield and macular colo
+r and fundus autofluorescence photography, spectral domain optical coherence tomography, fluorescein
+ angiography and indocyanine green angiography, full-field electroretinography, and Goldmann visual 
+fields. A 44-year-old Hispanic woman was referred to rule out retinitis pigmentosa. Medical history 
+revealed cardiac transplantation 6 months previously for idiopathic cardiomyopathy. Visual acuity wa
+s 20/20 in both eyes. The fundi showed widespread gray mottling and little pigmentation, but fundus 
+autofluorescence revealed black speckling broadly across the fundus, and geographic retinal pigment 
+epithelium loss in the nasal midperiphery of the left eye. Spectral domain optical coherence tomogra
+phy showed normal inner retina, and surprising preservation of outer nuclear layer, but the ellipsoi
+d zone line was fragmented, and the interdigitation zone line was replaced with irregular debris. Re
+tinal pigment epithelium was very thin with occasional excrescences. Electroretinography showed mild
+ loss of both rods and cones, with mild flicker peak delay only in the left eye. Fluorescein angiogr
+aphy showed no leakage, but a reticular pigment pattern in the macula. Indocyanine green angiography
+ showed irregular arteriolar remodeling, and few large arteries. Serous retinopathy is well known af
+ter organ transplantations, but this patient had retinal pigment epithelium and retinal damage well 
+into the periphery and no leakage. Retinal dystrophy was deemed unlikely given the relatively good e
+lectroretinography. The indocyanine green vascular changes raise the possibility of a transient chor
+oidal ischemic event during or shortly after cardiac surgery. The event altered retinal pigment epit
+helium diffusely, but allowed for enough regeneration to sustain retinal function. Diffuse transplan
+t chorioretinopathy may be discovered if postcardiac transplant patients get peripheral retinal exam
+inations.
+
+NO: 48
+The number of heart and lung transplantations has risen over the years, and they remain the mainstay
+ of treatment for end-stage heart failure and end-stage lung diseases. From the assessment of the do
+nor's heart to intraoperative management during separation from cardiopulmonary bypass (CPB) to the 
+postoperative follow-up of heart transplant patients, echocardiography plays a vital role throughout
+ this process. Patients with chronic lung diseases also may have cardiovascular compromise secondary
+ to pulmonary hypertension, pre-existing coronary artery disease, or valvular heart disease. Preoper
+ative echocardiographic assessment allows for optimization before major surgery. An intraoperative t
+ransesophageal echocardiography (TOE) for continuous monitoring of the cardiac function is important
+ especially in a procedure where hemodynamic instability is often encountered. Postoperative complic
+ations are common, and they can be diagnosed with the help of TOE. The authors aim to conduct a narr
+ative review on the use of TOE mainly in the intraoperative setting during heart and lung transplant
+ation and also to highlight some of its uses preoperatively as well as in the immediate postoperativ
+e period.
+
+NO: 49
+Right heart hemodynamic management is critical, because many post-heart transplantation (HTx) compli
+cations are related to right ventricular (RV) failure. However, current guidelines on size and sex m
+atching rely primarily on weight matching, with recent literature using total ventricular mass (TVM)
+, which places less emphasis on the impact of RV mass (RVM) matching. The aim of the present study w
+as to analyze the relationship of RVM matching and survival after HTx. We performed the retrospectiv
+e analysis using the UNOS database of adult HTx performed between January 1997 and December 2017. Pr
+eviously validated equations were used to calculate TVM and RVM. The percent difference in ventricul
+ar mass in the donor and recipient pair was used for the size mismatch. All donor-recipient pairs we
+re divided into 4 RVM groups by their mismatch ratio. We analyzed RVM matching and explored how RVM 
+undersizing impacted outcomes. The primary outcome measure was 1-year survival; secondary outcomes m
+easured included stroke and dialysis within 1 year and functional status. A total of 38,740 donor-re
+cipient pairs were included in our study. The 4 RVM match groupings were as follows: <0%, 0% to 20%,
+ 20% to 40%, and >40%. Utilization of donors who were older and of female sex resulted in greater RV
+M undersizing. Survival analysis demonstrated patients with RVM undersizing had worse 1-year surviva
+l (P < .001). RVM undersizing was an independent predictor of higher 1-year mortality (hazard ratio,
+ 1.23; 95% confidence interval, 1.11 to 1.34; P < .001). RVM undersizing was also associated with hi
+gher rates of dialysis within 1-year of transplantation and poorer postoperative functional status. 
+RVM undersizing is an independent predictor for worse 1-year survival. Donors who are older and fema
+le have lower absolute predicted RVM and may be predisposed to RVM undersizing. RVM-undersized trans
+plantation requires careful risk/benefit considerations.
+
+NO: 50
+Combined heart-liver transplantation (CHLT) has resulted in acceptable survival rates compared to or
+thotopic liver transplantation (OLT) alone and orthotopic heart transplantation alone. Using the US 
+transplant registry, we compared outcomes following sequential and combined HLT. We conducted a retr
+ospective cohort study. De-identified data were obtained from the United Network Organ Sharing Regis
+try. The primary outcome was patient survival from the date of OLT. Secondary outcomes included live
+r allograft survival and heart allograft survival. The study cohort included 301 CHLT recipients and
+ six sequential heart-liver transplantation (SHLT) recipients. Patient survival after CHLT was 88% a
+t 1 year, 84% at 3 years, and 82% at 5 years compared to 83%, 67%, and 50% in the SHLT group (p = 0.
+010). Liver allograft survival at 1, 3, and 5 years was 88%,83% and 82%, respectively, in the CHLT g
+roup compared to 83% and 67%, and 50%, respectively, in the SHLT group (p = 0.009). After OLT, heart
+ allograft survival at 1, 3, and 5 years was 86%, 79%, and 74% in the CHLT group, respectively, comp
+ared to 83%, 67%, and 50% in the SHLT group (p = 0.037). Despite the limited size of the SHLT cohort
+, we found that CHLT was superior to SHLT in survival rate and graft survival. The better outcomes n
+oted in CHLT may relate to immunoprotection provided by liver transplantation from the same donor.
+
+NO: 51
+This study aimed to quantify the impact of donor variables on post-heart transplantation mortality a
+nd morbidity in recipients with and without a pretransplant left ventricular assist device (LVAD). T
+his is a prospective cohort study of the ISHLT Transplant Registry that includes all primary heart t
+ransplants in adult recipients (January 2005-June 2013, n = 15 532). All recipients were divided int
+o patients with a durable continuous-flow LVAD (LVAD recipient, n = 3315) and without mechanical sup
+port (standard recipient, n = 12 217). Donors were classified as high risk (n = 3751) and low risk (
+n = 11 781). Transplants were categorized into low-risk donor/standard recipient (n = 9214), high-ri
+sk donor/standard recipient (n = 3003), low-risk donor/LVAD recipient (n = 2567) and high-risk donor
+/LVAD recipient (n = 748). Outcomes prior to discharge, survival at 5 years and freedom from complic
+ations were computed for each group. LVAD recipients experienced more episodes of infection, stroke 
+and acute rejection with both low- (P < 0.001, P < 0.001, P < 0.001) and high-risk donors (P < 0.001
+, P = 0.008, P = 0.028) prior to transplant discharge. Within standard recipients, a higher rate of 
+primary graft failure (P = 0.035), infection (P = 0.001), dialysis (P = 0.012), acute rejection (P =
+ 0.037) and less freedom from cardiac allograft vasculopathy (P < 0.001) and malignancy (P = 0.004) 
+was observed with high-risk donors. Within LVAD recipients, no differences in complications prior to
+ discharge or long-term morbidity were detected between low- and high-risk donors. When compared to 
+standard recipient/low-risk donors, all the 3 remaining categories had an increased probability of d
+eath or graft failure within 90 days: LVAD recipient/low-risk donor [hazard ratio (HR) 1.26, confide
+nce interval (CI) 1.05-1.51; P = 0.012], standard recipient/high-risk donor (HR 1.47, CI 1.27-1.71; 
+P < 0.001) and LVAD recipient/high-risk donor (HR 1.72, CI 1.32-2.24; P < 0.001). Between 90 days an
+d 5 years, only standard recipient/high-risk donor had an increased probability of death or graft fa
+ilure (HR 1.140, CI 1.020-1.274; P = 0.021) when compared to standard recipient/low-risk donor. LVAD
+ recipients, whether with high- or low-risk donors, have worse early (but not late) survival and mor
+e early complications than those of standard recipients. We found that adverse donor characteristics
+ are less predictive for determining the outcome of LVAD-bridged recipients than standard recipients
+.
+
+NO: 52
+Up to 50% of heart transplant candidates require bridging with left ventricular assist devices (VAD)
+. This study describes hospital activity and cost 1 year preceding and 1 year following VAD implant 
+(pre-VAD) and for the year before transplant (pre-HTX). The sample comprises an Australian cohort an
+d is the first study to investigate costs using both institutional and linked administrative data. I
+nstitutional activity was established for 77 consecutive patients actively listed for transplant bet
+ween 2009 and 2012. Costs were sourced from the institution or Australian refined diagnosis groups (
+arDRGs) and the National Efficient Price for admissions to other public and private institutions. Da
+ta from 25/77 VAD recipients were analysed and compared with data from 52/77 pre-transplant patients
+. Total and per day at risk costs were assessed, as well as totals per resource. Fifty per cent (50%
+) of the hospital costs in the pre-VAD year occurred during admission of VAD implant. Sixty-four per
+ cent (64%) of costs in the pre-HTX and 38% in the pre-VAD period occurred outside the implanting ce
+ntre. Costs in the year prior to VAD, $97,565 (IQR $86,907-$153,916), were significantly higher than
+ costs accrued in the year prior to transplant, $40,250 ($13,493-$81,260), p < 0.0001. Once discharg
+ed, costs per day at risk for post-VAD patients approximated those from the pre-admission period, p 
+= 0.16 and in the more clinically stable pre-HTX cohort, p = 0.08. Compared with the year prior, VAD
+ implant stabilised hospital cost in patients discharged home. A high proportion of the hospital cos
+ts in the pre-implant year occur outside the implanting centre and should be considered in economic 
+models assessing the impact of VAD implant.
+
+NO: 53
+As the population becomes increasingly obese, so does the pool of potential organ donors. We sought 
+to investigate the impact of donors with body mass index ≥40 (severe obesity) on heart transplant ou
+tcomes. Single-organ first-time adult heart transplants from 2003 to 2017 were evaluated from the Un
+ited Network for Organ Sharing database and stratified by donor severe obesity status (body mass ind
+ex ≥40). Demographics were compared, and univariate and risk-adjusted analyses evaluated the relatio
+nship between severe obesity and short-term outcomes and long-term mortality. Further analysis evalu
+ated the prevalence of severe obesity within the pool of organ donation candidates. A total of 26 53
+2 transplants were evaluated, of which 939 (3.5%) had donors with body mass index ≥40, with prevalen
+ce increasing over time (2.2% in 2003, 5.3% in 2017). Severely obese donors more likely had diabetes
+ mellitus (10.4% versus 3.1%,  Donor severe obesity was not associated with adverse post-transplant 
+outcomes. Increased evaluation of hearts from obese donors, even those with body mass index ≥40, has
+ the potential to expand the critically low donor pool.
+
+NO: 54
+Simultaneous heart-kidney transplant (sHK) has enabled the successful transplantation of patients wi
+th end-stage heart disease and concomitant kidney disease, with non-inferior outcomes to heart trans
+plant (HT) alone. The decision for sHK is challenged by difficulties in differentiating those patien
+ts with a significant component of reversible kidney injury due to cardiorenal syndrome who may reco
+ver kidney function after HT, from those with intrinsic advanced kidney disease who would benefit mo
+st from sHK. A consensus conference on sHK took place on June 1, 2019 in Boston, Massachusetts. The 
+conference represented a collaborative effort by experts in cardiothoracic and kidney transplantatio
+n from centers across the United States to explore the development of guidelines for the interdiscip
+linary criteria for kidney transplantation in the sHK candidate, to evaluate the current allocation 
+of kidneys to follow the heart for sHK, and to recommend standardized care for the management of sHK
+ recipients. The conference served as a forum to unify criteria between the different specialties an
+d to forge a pathway for patients who may need dual organ transplantation. Due to the continuing sho
+rtage of available donor organs, ethical problems related to multi-organ transplantation were also d
+ebated. The findings and consensus statements are presented.
+
+NO: 55
+For patients with advanced heart failure, left ventricular assist device (LVAD) can serve as a bridg
+e to heart transplantation. Patients with class II obesity are eligible for implantation of LVAD but
+ do not meet criteria for cardiac transplant listing. Laparoscopic sleeve gastrectomy (LSG) is propo
+sed as weight losing modality in order to reach the New York Heart Association (NYHA) criteria for l
+isting. In our center, three patients on LVAD with need for weight-reducing therapy were treated wit
+h laparoscopic sleeve gastrectomy. We reviewed our data retrospectively and compared it with the lit
+erature. Successful weight loss was achieved in all patients, without postoperative adverse events. 
+Two out of three were listed on transplant waiting list. Our results are similar to those described 
+in other series.
+
+NO: 56
+Our transplant center recently expanded the acceptance criteria for cardiac donors to increase heart
+ transplant volume. Our purpose was to assess the success of this strategy while maintaining accepta
+ble 1-year survival. We retrospectively reviewed patients who underwent heart transplantation at our
+ institution from January 2011 through December 2017. This time period was divided into 2 periods: 2
+011 to 2014 (Period A) and 2015 to 2017 (Period B) because we implemented our new donor acceptance p
+olicy at the onset of 2015. We compared recipient and donor characteristics from the 2 time periods.
+ The primary outcomes were 1-year graft and patient survival. Transplant volume increased in Period 
+B with the expanded donor acceptance policy: 128 heart transplants over 36 months compared to 52 tra
+nsplants in 48 months in Period A. Mean (± SD) recipient age was significantly higher in Period B (5
+4 ± 12 vs 50 ± 15 years; P = .04) whereas other recipient variables were similar. Donors in Period B
+ were significantly older, more likely to be female, had larger body mass index, were located a grea
+ter distance from the transplant center, and had a higher sequence number. Female donor to male reci
+pient occurred more often in Period B than in Period A (27% vs 10%; P = .01). Both 1-year patient su
+rvival and graft survival were unchanged between Period B (95% for both) and Period A (96% for both)
+. Using a more aggressive donor acceptance policy allowed for an increase in heart transplant volume
+ while maintaining acceptable 1-year graft and patient survival.
+
+NO: 57
+There is a limited supply of organs for all those who need them for survival. Thus, careful decision
+s must be made about who is listed for transplant. Studies show that manifesting genetic disease can
+ impact listing eligibility. What has not yet been studied is the impact genetic risks for future di
+sease have on a patient's chance to be listed. Surveys were emailed to 163 pediatric liver, heart, a
+nd kidney transplant programs across the United States to elicit views and experiences of key clinic
+ians regarding each program's use of genetic risks (ie, predispositions, positive predictive testing
+) in listing decisions. Response rate was 42%. Sixty-four percent of programs have required genetic 
+testing for specific indications prior to listing decisions. Sixteen percent have required it withou
+t specific indications, suggesting that genetic testing may be used to screen candidates. Six percen
+t have chosen not to list patients with secondary findings or family histories of genetic conditions
+. In hypothetical scenarios, programs consider cancer predispositions and adult-onset neurological c
+onditions to be relative contraindications to listing (61%, 17%, and 8% depending on scenario), and 
+some consider them absolute contraindications (5% and 3% depending on scenario). Only 3% of programs
+ have formal policies for these scenarios, but all consult genetic specialists at least "sometimes" 
+for results interpretation. Our study reveals that pediatric transplant programs are using future on
+set genetic risks in listing decisions. As genetic testing is increasingly adopted into pediatric me
+dicine, further study is needed to prevent possible inappropriate use of genetic information from im
+pacting listing eligibility.
+
+NO: 58
+Arrhythmogenic cardiomyopathy (ACM) is an inheritable heart disease characterized by fibro-fatty rep
+lacement of the myocardium. TTN missense variants were previously reported as a pathogenic factor fo
+r ACM. TTN missense variants are commonly identified in ACM, but have limited effect on the phenotyp
+e of ACM. We sequenced 15 ACM-related genes in 35 patients who had a heart transplantation and quant
+ified myocardium, and fibrous and adipose tissue in blocks of the explanted heart. Clinical and path
+ological characteristics were compared between patients with TTN variants and others. Pedigree analy
+sis was performed in 3 families with TTN variants. TTN variants were detected in 11 patients (all mi
+ssense, 9 heterozygous and 2 oligogenic form). The TTN truncating variant was absent in the cohort. 
+Patients with TTN variants had late onset age of the disease (31 ±13 years vs 17 ±3 years, P = 0.049
+) and age of heart transplantation (41 ±14 years vs 24 ±9 years, P = 0.027), larger left ventricle e
+nd-diastolic diameter (62 ±10 mm vs 45 ±10 mm, P = 0.019), smaller right ventricular outflow tract (
+34 ±14 mm vs 50 ±15 mm, P = 0.046), more myocardium (40.8% ±29.4% vs 13.8% ±11.0%, P = 0.017), and l
+ess adipose tissue (43.0% ±30.9% vs 66.9% ±18.5%, P = 0.036) in right ventricle than those with desm
+osomal variants. There was few difference between patients with TTN variants and those without varia
+nts. Pedigrees showed none of the family members with TTN missense variants had a disease phenotype,
+ indicating a very low penetrance. TTN missense variants was commonly identified in ACM patients in 
+this cohort, but hardly played a primary role in ACM as causative variants.
+
+NO: 59
+The number of adult congenital heart disease (ACHD) patients requiring heart transplantation (HT) co
+ntinues to grow, and if they survive the first year after transplant, their long-term survival is at
+ least equivalent to non-ACHD patients. The 1-year survival of ACHD patients with HT remains lower t
+han non-ACHD patients. We evaluated the affect of transplant center volume on 1-year survival of ACH
+D patients. We analyzed United Network of Organ Sharing patients (age ≥18 years) who underwent their
+ first orthotopic HT between January 1, 2000, and December 31, 2015, to assess the association betwe
+en transplant center volume and 1-year survival of ACHD patients. We identified 827 ACHD patients at
+ 113 centers who underwent HT during the study period. The average age of the recipients and donors 
+was 36 ± 13 years (60% men and 84% Caucasian) and 28 ± 11 (63% men and 66% Caucasian), respectively.
+ Of the ACHD patients undergoing HT, 27% (n = 60) were done at low-volume centers, 30% (n = 10) were
+ reported at high-volume centers, and the remaining (n = 43) were at medium-volume centers. A total 
+of 96 patients died within 30 days, including 37 (16.7%) at low-volume, 37 (10.2%) at medium-volume,
+ and 22 (9.0%) at high-volume centers (p = 0.019). The average unadjusted Kaplan-Meier 30-day surviv
+al at low-volume centers was 83% ± 2%, which was significantly lower than medium-volume (90% ± 1%) a
+nd high-volume (91% ± 2%) centers (log-rank p < 0.05). Within 1 year, 154 patients had died, includi
+ng 56 (36.4%) at low-volume, 60 (38.9%) at medium-volume, and 38 (24.7%) at high-volume centers (p =
+ 0.011). Average unadjusted Kaplan-Meier 1-year survival at low-volume centers was 75% ± 3%, which w
+as significantly lower than medium-volume (83% ± 2%) and high-volume (84% ± 2%) centers (log-rank p 
+< 0.05). The 30-day and 1-year survival of ACHD patients undergoing HT is partly influenced by overa
+ll transplant center volume and, potentially, volume of ACHD HTs, with low-volume centers performing
+ poorly relative to medium-volume and high-volume centers. The role of peri-operative care and multi
+disciplinary management in improving survival at low-volume centers required further investigations.
+
+
+NO: 60
+Severe acute kidney injury (AKI), defined as requiring renal replacement therapy (RRT), is associate
+d with higher mortality postheart transplantation, but its long-term renal consequences are not know
+n. Anonymized data of 3365 patients, who underwent heart transplantation between 1995 and 2017, were
+ retrieved from the UK Transplant Registry. Multivariable binary logistic regression was performed t
+o identify risk factors for severe AKI requiring RRT, Kaplan-Meier analysis to compare survival and 
+renal function deterioration of the RRT and non-RRT groups, and multivariable Cox regression model t
+o identify predicting factors of mortality and end-stage renal disease (ESRD). 26.0% of heart recipi
+ents received RRT post-transplant. The RRT group has lower survival rates at all time points, especi
+ally in the immediate post-transplant period. However, conditional on 3 months survival, older age, 
+diabetes and coronary heart disease, but not post-transplant RRT, were the risk factors for long-ter
+m survival. The predicting factors for ESRD were insulin-dependent diabetes, renal function at trans
+plantation, eGFR decline in the first 3 months post-transplant, post-transplant severe AKI and trans
+plantation era. Severe AKI requiring RRT post-transplant is associated with worse short-term surviva
+l, but has no impact on long-term mortality. It also accelerates recipients' renal function deterior
+ation in the long term.
+
+NO: 61
+Patients undergoing heart transplantation (HT) frequently receive perioperative red blood cell (RBC)
+ transfusions, but the impact of perioperative transfusion on clinical outcomes after HT remains unc
+lear. All adult HTs performed in Korea between 2007 and 2016 were analyzed using data from the Natio
+nal Health Insurance Service. Patients were classified into four groups based on the number of RBC u
+nits transfused during hospital admission for HT: 0, 1 to 2, 3 to 5, and greater than or equal to 6 
+units. In-hospital and long-term mortality rates were compared among the groups. In total, 833 adult
+s HTs were included in the study. The overall in-hospital mortality rate was 8.4% (70 of 833), with 
+no mortality occurring in patients who received no transfusion. The in-hospital mortality rate was h
+igher in patients requiring  greater than or equal to 6 units (25.1%) than in patients who received 
+1 to 2 units (0.3%) and 3 to 5 units (2.7%; P < .001). Patients who received   greater than or equal
+ to 6 units of RBCs had a significantly higher risk of all-cause mortality after HT compared to pati
+ents who received no transfusion (hazard ratio [95% confidence interval], 5.99 [1.46-24.56]; P = .01
+2). Long-term survival rate was also lower in patients who received transfusions of greater than or 
+equal to 6 units of RBCs than in patients who received no transfusion (P < .001). Perioperative tran
+sfusion of greater than or equal to 6 units of RBCs may be associated with an increased risk of in-h
+ospital and long-term mortality after HT.
+
+NO: 62
+Despite small single-center reports demonstrating acceptable outcomes using donor hearts with left v
+entricular dysfunction, 19% of potential donor hearts are currently unused exclusively because of le
+ft ventricular dysfunction. We investigated modern long-term survival of transplanted donor hearts w
+ith left ventricular dysfunction using a large, diverse cohort. Using the United Network for Organ S
+haring database, we reviewed all adult heart transplants between January 2000 and March 2016. Baseli
+ne and postoperative characteristics and Kaplan-Meier survival curves were compared. A covariates-ad
+justed Cox regression model was developed to estimate post-transplant mortality. To address observed
+ variation in patient profile across donor ejection fraction, a propensity score was built using Cox
+ predictors as covariates in a generalized multiple linear regression model. All the variables in th
+e original Cox model were included. For each recipient, a predicted donor ejection fraction was gene
+rated and exported as a new balancing score that was used in a subsequent Cox model. Cubic spline an
+alysis suggested that at most 3 and perhaps no ejection fraction categories were appropriate. Theref
+ore, in 1 Cox model we added donor ejection fraction as a grouped variable (using the spline-directe
+d categories) and in the other as a continuous variable. A total of 31,712 donor hearts were transpl
+anted during the study period. A total of 742 donor hearts were excluded for no recorded left ventri
+cular ejection fraction, and 20 donor hearts were excluded for left ventricular ejection fraction le
+ss than 20%. Donor hearts with reduced left ventricular ejection fraction were from younger donors, 
+more commonly male donors, and donors with lower body mass index than normal donor hearts. Recipient
+s of donor hearts with reduced left ventricular ejection fraction were more likely to be on mechanic
+al ventilation. Kaplan-Meier curves revealed no significant differences in recipient survival up to 
+15 years of follow-up (P = .694 log-rank test). Cox regression analysis showed that after adjustment
+ for propensity variation, transplant year, and region, ejection fraction had no statistically signi
+ficant impact on mortality when analyzed as a categoric or continuous variable. Left ventricular eje
+ction fraction at approximately 1 year after transplantation was normal for all groups. Carefully se
+lected donor hearts with even markedly diminished left ventricular ejection fraction can be transpla
+nted with long-term survival equivalent to normal donor hearts and therefore should not be excluded 
+from consideration on the basis of depressed left ventricular ejection fraction alone. Functional re
+covery of even the most impaired donor hearts in this study suggests that studies of left ventricula
+r function in the setting of brain death should be interpreted cautiously.
+
+NO: 63
+This study aimed to evaluate the long-term prognostic value of serial assessment of coronary flow re
+serve (CFR) by rubidium Rb 82 ( Cardiac allograft vasculopathy is a major determinant of late mortal
+ity in HT recipients. The long-term prognostic value of serial CFR quantification by PET imaging in 
+HT patients is unknown. A total of 89 patients with history of HT (71% men, 7.0 ± 5.7 years post-HT,
+ age 57 ± 11 years) scheduled for dynamic rest and stress (dipyridamole)  Forty deaths occurred duri
+ng the median follow-up time of 8.6 years. Low CFR at PET-1 was associated with a 2.77-fold increase
+ in all-cause mortality (95% confidence interval [CI]: 1.34 to 5.74; p = 0.004). CFR decreased over 
+time in patients with follow-up imaging (PET-1: 2.11 ± 0.74 vs. PET-2: 1.81 ± 0.61; p = 0.003). Twen
+ty-five patients were reclassified based on PET-1 and PET-2 (high to low CFR: n = 18, low to high CF
+R: n = 7). Overall survival was similar in patients reclassified from high to low as patients with l
+ow to low CFR, whereas patients reclassified from low to high had similar survival as patients with 
+high to high CFR. In multivariate Cox regression of patients with PET-2, higher baseline CFR (hazard
+ ratio [HR] for a 0.73 unit (one SD) increase: 0.36, 95% CI: 0.16 to 0.82) and reduction in CFR from
+ PET-1 to PET-2 (HR for a 0.79 unit (one SD) decrease: 1.50 to 7.84) were independent predictors of 
+all-cause mortality. Serial assessment of CFR by 
+
+NO: 64
+Although frailty has been previously shown to negatively influence postoperative outcomes, frailty m
+easurements remain undefined and underused for patients undergoing orthotopic heart transplantation 
+(OHT). This study aims to derive and validate an OHT frailty screening tool. The United Network for 
+Organ Sharing database was queried for adults undergoing OHT between 2000 and 2018. The total popula
+tion was randomly divided into derivation (80%) and validation (20%) cohorts. The primary outcome wa
+s mortality. Secondary outcomes included rates of major morbidities and hospital length of stay. Var
+iables that were constructs within preexisting frailty tools and that were predictive of a composite
+ frailty outcome within the derivation cohort were incorporated into a multivariable regression mode
+l (exploratory, P < .2). Independent predictors of frailty were included in the OHT frailty screenin
+g tool. A total of 36,790 OHT recipients met the criteria for inclusion. Twelve variables were ident
+ified as independent predictors of frailty and included as OHT frailty screening tool constructs. Re
+cipients in the validation cohort were stratified as nonfrail (72.9%, n = 5363), prefrail (24.4%, n 
+= 1795), and frail (2.7%, n = 200). Frail patients had significantly higher rates of posttransplant 
+stroke, renal failure, and mortality at all time intervals as well as longer length of stay (all P <
+ .001). The risk model's predictive rates of mortality strongly correlated with the observed rates o
+f mortality (r The OHT frailty screening tool is highly predictive of adverse posttransplant outcome
+s. This screening tool may provide a framework to enhance existing risk stratification tools and imp
+rove overall resource utilization.
+
+NO: 65
+Orthotopic heart transplantation (OHT) remains the gold standard for advanced heart failure. Increas
+ed risk (IR) donors were categorized by the United Network for Organ Sharing Database (UNOS) accordi
+ng to the Centers for Disease Control and Prevention (CDC) criteria. However, the impact of CDC IR d
+onor hearts on the outcome of adult OHT recipients remains unclear. The aim of this study was to com
+pare the outcome of adult OHT recipients between CDC IR and non-CDC IR donor grafts. Data were obtai
+ned from the United Network for Organ Sharing Databas. All adult patients (age ≥18 years) undergoing
+ OHT from 2004 through 2016 were included (n = 24,751). Propensity scores for CDC IR donors were cal
+culated by estimating probabilities of CDC IR donor graft use using a nonparsimonious multivariable 
+logistic regression model. Patients were matched 1:1 using a greedy matching algorithm based on the 
+propensity score of each patient. The impact of CDC IR donors on the post-transplant outcomes, such 
+as 30-day and overall mortalities, was investigated using Cox-proportional hazards. Overall survival
+ probability analyses were performed. Of 24,751 primary heart transplants from 2004 to 2016 with 358
+4 (14.5%) as IR donors, 6304 transplants were successfully matched (n = 3152 in CDC IR group and non
+-IR group). There were no significant differences in baseline characteristics in recipients and dono
+rs. In the Cox-proportional hazards model for matched subjects, the use of CDC IR grafts was not ass
+ociated with 30-day (hazard ratio of IR group vs non-IR group 0.97; 95% confidence interval, 0.87-1.
+08; P = .57) and overall mortalities (hazard ratio, 0.94; 95% confidence interval, 0.73-1.21; P = .6
+2). Interestingly, post-transplant acute myocardial rejection episodes during hospital stays were fo
+und more often in the CDC-IR group, compared with the non-CDC IR group (CDC IR, n = 358 [11.4%]; non
+-CDC IR, n = 304 [9.6%] P = .03), whereas post-transplant pacemaker placements were performed less f
+requently in the CDC IR group (CDC IR, n = 80 [2.6%]; non-CDC IR, n = 111 [3.5%] P = .020). Importan
+tly, there was no significant difference in the overall survival probability between CDC IR and non-
+IR groups in both unadjusted and adjusted survival analyses. CDC IR status does not have a significa
+nt impact on adult OHT recipient survival probability. Increased use of CDC IR donor grafts can pote
+ntially alleviate the persistent and worsening shortage of available donor organs and shorten the wa
+itlist time for heart transplantation.
+
+NO: 66
+Plastic bronchitis is a rare post-Fontan complication with limited treatment options. Heart transpla
+ntation has evolved as a potential curative option, but outcomes have not been well-defined. This st
+udy aims to assess contemporary waitlist and post-transplant outcomes in patients with plastic bronc
+hitis. All Fontan patients were identified in the PHTS database (2010 - 2018). Waitlist and post-tra
+nsplant outcomes were compared between Fontan patients with and without plastic bronchitis. Competin
+g outcomes and Kaplan-Meier analyses were used to assess the impact of plastic bronchitis on waitlis
+t and post-transplant survival. A secondary analysis excluded those with PLE from the comparison coh
+ort. Of 645 Fontan patients listed for heart transplant, 69 (11%) had plastic bronchitis. At listing
+, patients with plastic bronchitis were younger (8.9 vs 11.1 years, P = .02), but had few other diff
+erences in baseline characteristics. A fewer Fontan patients with plastic bronchitis were listed in 
+the more recent era (46 [15.4%] in 2010-2014 vs 23 [6.6%] in 2015-2018, P < .01). Overall, there was
+ no difference in waitlist (P = .30) or post-transplant (P = .66) survival for Fontan patients with 
+and without plastic bronchitis. The results were similar after excluding patients with PLE. Contrary
+ to prior reports, this relatively large series showed that plastic bronchitis did not have a negati
+ve impact on survival to or after heart transplantation in Fontan patients. Our study also found a 5
+0% reduction in listing in the current era, which may indicate evolution in management of Fontan pat
+ients.
+
+NO: 67
+It remains unclear whether left ventricular assist device (LVAD) implantation in non-inotrope depend
+ent patients is of clinical benefit. This study sought to evaluate cause of death in patients listed
+ for heart transplant (HT) to determine the relative risks and benefits of implanting LVAD into pati
+ents who are less sick than those included in the original clinical trials. We examined death as the
+ primary outcome in 23,098 patients listed for HT from 2006 to 2014 using proportional subdistributi
+on hazards modeling. Cause of death was examined as a secondary outcome using χ 1859 (8.1%) patients
+ were removed from the wait list for death, including 229 (2.7%) status 1A, 349 (4.6%) status 1B, 24
+6 (13.2%) status 2, and 1035 (26.0%) status 7 patients (P < 0.0001). Status 2 patients who received 
+LVAD while listed had a higher risk of death compared to those who did not (adjusted HR 1.68; 95% CI
+ 1.09-2.59; P = 0.02), while there was no increased risk of death in status 1A (HR 1.02; 95% CI 0.68
+-1.51; P = 0.9) and status 1B (HR 0.89; 95% CI 0.65-1.23; P = 0.5) who received LVAD. Status 2 patie
+nts who received LVAD were more likely to die cerebrovascular causes (0.6% vs. 0.1%, P = 0.009) and 
+organ failure (70.6% vs. 29.4%, P = 0.003). LVAD implantation in status 2 patients listed for HT is 
+associated with a higher risk of death. More research is needed to determine the impact LVAD implant
+ation will have on mortality in patients with ambulatory, non-inotrope dependent HF.
+
+NO: 68
+Cardiogenic shock (CS) is associated with high mortality and often requires involvement of a multidi
+sciplinary provider team to deliver timely care. Care coordination is more difficult on weekends, wh
+ich may lead to a delay in care. We sought to assess the effect of weekend admissions on outcomes in
+ patients admitted with CS. Patients admitted with CS were identified from 2005 to 2014 in the Natio
+nal Inpatient Sample using ICD9 code 785.51. Baseline demographics, in-hospital procedures, and outc
+omes were obtained and compared by day of admission. A multivariable model was used to assess the im
+pact of weekend admission on in-hospital mortality. A total of 875,054 CS admissions were identified
+ (age 67.4 ± 15.1 years, 40.2% female, 72.1% Caucasian), with 23% of patients being admitted on week
+ends. Baseline co-morbidities were similar between groups. Weekend admissions were associated with h
+igher in-hospital mortality (40.6% vs 37.5%) and cardiac arrest (20.3% vs 18.1%, p < 0.001 for both)
+ consistently over the study period. Use of temporary and permanent mechanical support devices and h
+eart transplantation were slightly less common for weekend admissions. In a multivariable model adju
+sting for relevant confounders, weekend admission was associated with a 10% increased mortality in p
+atients with CS. In conclusion, patients with CS admitted on weekends had higher in-hospital mortali
+ty and were slightly less likely to receive mechanical support and advanced therapies compared with 
+those admitted on weekdays. Future studies and health system initiatives should focus on rectifying 
+these disparities with around-the-clock multidisciplinary coordinated care for CS.
+
+NO: 69
+Statins improve survival and reduce rejection and cardiac allograft vasculopathy after heart transpl
+antation (HT). The impact of different statin intensities on clinical outcomes has never been assess
+ed. We set out to determine the impact of statin exposure on cardiovascular outcomes after HT. We pe
+rformed a retrospective study of 346 adult patients who underwent HT from 2006 to 2018. Statin inten
+sity was determined longitudinally after HT based on American College of Cardiology/American Heart A
+ssociation (ACC/AHA) guidelines. The primary outcome was the time to the first primary event defined
+ as the composite of heart failure hospitalization, myocardial infarction, revascularization, and al
+l-cause mortality. Secondary outcomes included time to significant rejection and time to moderate-se
+vere cardiac allograft vasculopathy. Adverse events were evaluated for subjects on high-intensity st
+atin therapy. A Cox proportional hazards model was used to evaluate the relationship between clinica
+l variables, statin intensity, and outcomes. Most subjects were treated with low-intensity statin th
+erapy although this declined from 89.9% of the population at 1month after HT to 42.8% at 5years afte
+r HT. History of ischaemic cardiomyopathy, significant acute rejection, older donor age, and lesser 
+statin intensity (p ≤ 0.001) were associated with reduced time to the primary outcome in a multivari
+able Cox model. Greater intensity of statin therapy was most beneficial early after HT. There were n
+o statin-related adverse events for the 14 subjects on high-intensity statin therapy. Greater statin
+ intensity was associated with a reduction in adverse cardiovascular outcomes after HT.
+
+NO: 70
+With the advent of combined antiretroviral therapy (cART), growing evidence has shown human immunode
+ficiency virus (HIV) may no longer be an absolute contraindication for solid organ transplantation. 
+This study compares outcomes of heart transplantations between HIV-positive and HIV-negative recipie
+nts using SRTR transplant registry data. Patient survival, overall graft survival and death-censored
+ graft survival were compared between HIV-positive and HIV-negative recipients. Multivariate Cox reg
+ression and Cox regression with a disease risk score (DRS) methodology were used to estimate the adj
+usted hazard ratios among heart transplant recipients (HTRs). In total, 35 HTRs with HIV+ status wer
+e identified. No significant differences were found in patient survival (88% vs 77%; P = 0.1493), ov
+erall graft survival (85% vs 76%; P = 0.2758), and death-censored graft survival (91% vs 91%; P = 0.
+9871) between HIV-positive and HIV-negative HTRs in 5-year follow-up. No significant differences wer
+e found after adjusting for confounders. This study supports the use of heart transplant procedures 
+in selected HIV-positive patients. This study suggests that HIV-positive status is not a contraindic
+ation for life-saving heart transplant as there were no differences in graft, patient survival.
+
+NO: 71
+Medicaid insurance in Georgia provides limited reimbursement for heart transplant (HT) and left vent
+ricular assist devices (LVAD). We examined whether insurance type affects eligibility for and surviv
+al after receipt of HT or LVAD. We retrospectively identified patients evaluated for HT/LVAD from 20
+12 to 2016. We used multivariable logistic and Cox proportional hazards regression to examine the as
+sociation of insurance type on treatment eligibility and 1-year survival. Of 569 patients evaluated,
+ 282 (49.6%) had private, 222 (39.0%) had Medicare, and 65 (11.4%) had Medicaid insurance. Patients 
+with Medicaid were younger, more likely to be Black, with fewer medical comorbidities. In adjusted m
+odels, Medicare and Medicaid insurance predicted lower odds of eligibility for HT, but did not affec
+t survival after HT. Among those ineligible for HT, Medicaid patients were less likely to receive de
+stination therapy (DT) LVAD (adj OR 0.08, 95% CI 0.01-0.66; P = .02) and had increased risk of death
+ (adj HR = 2.03, 95% CI 1.13-3.63; P = .01). Despite younger age and fewer comorbidities, patients w
+ith Medicaid insurance are less likely to receive DT LVAD and have an increased risk of death once d
+eemed ineligible for HT. Medicaid patients in Georgia need improved access to DT LVAD.
+
+NO: 72
+The initial classic Fontan utilising a direct right atrial appendage to pulmonary artery anastomosis
+ led to numerous complications. Adults with such complications may benefit from conversion to a tota
+l cavo-pulmonary connection, the current standard palliation for children with univentricular hearts
+. A single institution, retrospective chart review was conducted for all Fontan conversion procedure
+s performed from July, 1999 through January, 2017. Variables analysed included age, sex, reason for 
+Fontan conversion, age at Fontan conversion, and early mortality or heart transplant within 1 year a
+fter Fontan conversion. A total of 41 Fontan conversion patients were identified. Average age at Fon
+tan conversion was 24.5 ± 9.2 years. Dominant left ventricular physiology was present in 37/41 (90.2
+%) patients. Right-sided heart failure occurred in 39/41 (95.1%) patients and right atrial dilation 
+was present in 33/41 (80.5%) patients. The most common causes for Fontan conversion included atrial 
+arrhythmia in 37/41 (90.2%), NYHA class II HF or greater in 31/41 (75.6%), ventricular dysfunction i
+n 23/41 (56.1%), and cirrhosis or fibrosis in 7/41 (17.1%) patients. Median post-surgical follow-up 
+was 6.2 ± 4.9 years. Survival rates at 30 days, 1 year, and greater than 1-year post-Fontan conversi
+on were 95.1, 92.7, and 87.8%, respectively. Two patients underwent heart transplant: the first with
+in 1 year of Fontan conversion for heart failure and the second at 5.3 years for liver failure. Font
+an conversion should be considered early when atrial arrhythmias become common rather than waiting f
+or severe heart failure to ensue, and Fontan conversion can be accomplished with an acceptable risk 
+profile.
+
+NO: 73
+Survival after heart transplantation is steadily improving but primary graft dysfunction (PGD) is st
+ill a leading cause of death. Medical management seems useful in mild or moderate PGD, whereas extra
+corporeal life support (ECLS) could be suggested for severe PGD refractory to conventional treatment
+. Our aim is to present the results of ECLS for PGD after heart transplantation at a single-centre e
+xperience. We performed an observational analysis of our local database. According to the Internatio
+nal Society for Heart and Lung Transplantation classification, patients were divided into a left and
+ biventricular failure (PGD-LV) or isolated right ventricular failure (PGD-RV) group. The primary en
+d point was survival to hospital discharge. Between January 2010 and December 2016, 38 patients pres
+ented with PGD (PGD-LV n = 22, 58%; PGD-RV n = 16, 42%) requiring ECLS support. The mean age was 50.
+8 ± 12.4 years and 79% were males. Baseline characteristics were comparable between the 2 groups. PG
+D-LV patients displayed a significantly higher mortality rate on ECLS support as opposed to PGD-RV p
+atients (46% vs 13%, P = 0.033). The rate of complications during ECLS support was comparable betwee
+n the 2 groups. Twenty-three (61%) patients were successfully weaned from ECLS (PGD-LV = 50% vs PGD-
+RV = 75%, P = 0.111) after a mean support of 9.0 ± 6.4 days. Seventeen (45%) patients survived to ho
+spital discharge (PGD-LV = 41% vs PGD-RV = 50%, P = 0.410). In case of severe PGD with various manif
+estations of ventricular failure refractory to conventional treatment, ECLS can be considered as a f
+easible option with satisfactory survival in this critically ill population.
+
+NO: 74
+US Pediatric Heart Allocation Policy was recently revised, deprioritizing candidates with cardiomyop
+athy while maintaining status 1A eligibility for congenital heart disease (CHD) candidates on "high-
+dose" inotropes. We compared waitlist characteristics and mortality around this change. Status 1A li
+stings decreased (70% to 56%, P < .001) and CHD representation increased among status 1A listings (4
+8% vs 64%, P < .001). Waitlist mortality overall (subdistribution hazard ratio [SHR] 0.96, P = .63) 
+and among status 1A candidates (SHR 1.16, P = .14) were unchanged. CHD waitlist mortality trended be
+tter (SHR 0.82, P = .06) but was unchanged for CHD candidates listed status 1A (SHR 0.92, P = .47). 
+Status 1A listing exceptions increased 2- to 3-fold among hypertrophic and restrictive cardiomyopath
+y candidates and 13.5-fold among dilated cardiomyopathy (DCM) candidates. Hypertrophic (SHR 6.25, P 
+= .004) and restrictive (SHR 3.87, P = .03) cardiomyopathy candidates without status 1A exception ha
+d increased waitlist mortality, but those with DCM did not (SHR 1.26, P = .32). Ventricular assist d
+evice (VAD) use increased only among DCM candidates ≥1 years old (26% vs 38%, P < .001). Current all
+ocation policy has increased CHD status 1A representation but has not improved their waitlist mortal
+ity. Excessive DCM status 1A listing exceptions and continued status 1A prioritization of children o
+n stable VADs potentially diminish the intended benefits of policy revision.
+
+NO: 75
+The HeartMate 3 (HM3; Abbott Laboratories, Lake Forest, Ill) left ventricular assist device (LVAD) r
+eceived its Conformité Européenne mark for Europe in October 2015 and is currently under investigati
+on of the Food and Drug Administration to gain approval in the United States. Within this study, we 
+present the first real-world experiences, 1-year outcomes, and adverse events of a single-center coh
+ort treated with the HM3. We prospectively studied midterm results of 27 consecutive patients receiv
+ing the HM3 at a single institution. After HM 3 implantation, survival, causes of death, and complic
+ations were recorded for all patients. Follow up was 100% complete. Twenty-seven patients were enrol
+led into the study. Within 1 year after HM3 implantation, 3 patients underwent heart transplantation
+ and 3 patients died. Thirty-day survival was 88.9%, 6-month 85.2%, and 1-year survival 85.2%. No pu
+mp thrombosis and no strokes were observed within the study group. One incident of gastrointestinal 
+bleeding was observed (3.7%). Right heart failure was diagnosed in 1 patient after HM3 implantation 
+(3.7%). No technical complications of the pump were documented. No pump exchanges were necessary. Th
+e main complication was LVAD-related infection (22.2%). The novel LVAD HM3 has already shown excelle
+nt Conformité Européenne mark trial results. Within this cohort, 1-year survival after HM3 implantat
+ion was 85%. The HM3 showed excellent midterm results with 0% stroke and 0% pump thrombosis rates 1 
+year after implantation.
+
+NO: 76
+In spite of renal graft shortage and increasing waiting times for transplant candidates, simultaneou
+s heart and kidney transplantation (HKTx) is an increasingly performed procedure established for pat
+ients with combined end-stage cardiac and renal failure. Although data on renal graft outcome in thi
+s setting is limited, reports on reduced graft survival in comparison to solitary kidney transplanta
+tion (KTx) have led to an ongoing discussion of adequate organ utilization. This retrospective study
+ was conducted to evaluate prognostic factors and outcomes of 27 patients undergoing HKTx in compari
+son to a matched cohort of 27 patients undergoing solitary KTx between September 1987 and October 20
+19 in one of Europe's largest transplant centers. Median follow-up was 100.33 (0.46-362.09) months. 
+Despite lower five-year kidney graft survival (62.6% versus 92.1%; 111.73 versus 183.08 months; p = 
+0.189), graft function and patient survival (138.90 versus 192.71 months; p = 0.128) were not signif
+icantly inferior after HKTx in general. However, in case of prior cardiac surgery requiring sternoto
+my we observed significantly reduced early graft and patient survival (57.00 and 94.09 months, respe
+ctively) when compared to patients undergoing solitary KTx (183.08 and 192.71 months; p < 0.001, res
+pectively) or HKTx without prior cardiac surgery (203.22 and 203.22 months; p = 0.016 and p = 0.019,
+ respectively), most probably explained by the significantly increased rate of primary nonfunction (
+33.3%) and in-hospital mortality (25.0%). Our data demonstrates the increased rate of early kidney g
+raft loss and thus significantly inferior graft survival in high-risk patients undergoing HKTx. Thus
+, we advocate for a "kidney-after-heart" program in such patients to ensure responsible and reasonab
+le utilization of scarce resources in times of ongoing organ shortage crisis.
+
+NO: 77
+Pediatric heart-lung transplantation (HLT) is rare, and no report has analyzed patient outcomes sinc
+e time of listing. We analyzed pediatric HLTs to understand risk factors for waitlist and post-HLT m
+ortality. All pediatric (<18 year old) HLT candidates were identified within the UNOS database (n = 
+573) and grouped by age, era, and by diagnosis. Logistical regression and Cox proportional hazard mo
+deling identified risk factors for 6-month WL and overall post-transplant mortality. 209/573 (37%) H
+LT candidates were transplanted, 7% recovered, 42% died waiting, and 15% were removed for another/un
+known reason. Diagnoses were primary pulmonary hypertension(n = 130), congenital heart disease(CHD) 
+without Eisenmenger's syndrome (ES) (n = 65), CHD with ES (n = 73), and other (n = 305). Patients wi
+th a diagnosis other than CHD with ES (OR: 7.55, P = .001), on IV inotropic support (OR: 2.79, P < .
+001), and infants (OR: 2.20, P = .004) were associated with waitlist mortality. There has been a 56%
+ reduction in HLTs across eras (Era 1:10.8/yr vs Era 2:4.7/yr). Risk factors for post-transplant mor
+tality were ECMO (HR: 4.1, P = .016), and being infant (HR: 2.2, P = .04) or 1-11 years old (HR: 1.7
+8, P = .015). ECMO patients have an 87% 2-year mortality rate with a median post-transplant survival
+ of 64 days. Overall, post-transplant survival was unchanged (log-rank P = .067) between eras. Exclu
+ding ECMO patients, in the recent era 29 non-infant patients with primary pulmonary hypertension had
+ 93% 1-year survival and 67% 5-year survival. Nearly 600 pediatric patients have been listed for HLT
+ in UNOS, although numbers are decreasing in the current era. HLT for a patient on ECMO appears to b
+e an ineffective strategy; however, in well-selected cohorts, HLT can provide considerable post-tran
+splant survival.
+
+NO: 78
+Pharmacokinetic (PK) changes can affect antiretroviral (ARV) systemic exposure for critically ill pa
+tients living with HIV (CI-PLWH). Studies to guide ARV adjustments in this population are limited. A
+ PK analysis was conducted in a 44-year-old CI-PLWH who presented for a heart and lung transplant on
+ veno-arterial extracorporeal membrane oxygenation (VA ECMO). Home ARV therapy (ART) of co-formulate
+d abacavir/lamivudine/dolutegravir (ABC/3TC/DTG) was continued. ARV serum concentrations were obtain
+ed during and after VA ECMO. Two blood levels were drawn at 1 h, for maximum serum concentration (C 
+Area under the concentration-time curve (AUC ART adjustments would not be required for this patient.
+ Additional studies are needed to assess effects of VA ECMO and crushed tube administration of ARVs 
+in CI-PLWH.
+
+NO: 79
+Cardiac allograft vasculopathy (CAV) is a complex disease that remains a significant cause of morbid
+ity and mortality after orthotopic heart transplantation (OHT). Originating as a result of inflammat
+ory response, the development and progression of CAV is attributed to endothelial dysfunction, cellu
+lar infiltration, and a wide-range of genetic and patient factors. The detection of CAV remains a di
+agnostic challenge, as symptoms can be variable or absent. While coronary angiography remains the in
+itial test of choice for the diagnosis and surveillance of CAV, intravascular imaging (either by ult
+rasound or optical coherence tomography) and physiologic assessments are useful adjuncts in the card
+iac catheterization laboratory. Positron emission tomography, computed tomographic, and magnetic res
+onance imaging may have a role increasing the time interval between invasive screening tests for pro
+gnosis. Medical management should include a statin, vasodilator, and tailored immunosuppressive regi
+men that maximally decrease allograft rejection and CAV progression while causing minimal side effec
+ts. Patients that are less responsive to pharmacotherapy should be considered for invasive managemen
+t with percutaneous coronary intervention. Although surgical revascularization is a poor option, rep
+eat OHT is the only definitive treatment option but given its morbidity should be reserved for a hig
+hly selected patient population.
+
+NO: 80
+The development of de novo donor-specific HLA antibodies (dnDSA) after transplantation is associated
+ with graft failure, mortality, and cost. There is no effective therapeutic intervention to prevent 
+dnDSA or ameliorate associated injury. The aims of this study were to identify specific HLA factors 
+associated with dnDSA development and to propose primary prevention strategies that could reduce the
+ incidence of dnDSA without prohibitively limiting access to transplant. The investigation cohort in
+cluded heart transplant recipients from 2008 to 2015 (n = 265). HLA typing was performed and HLA ant
+ibody testing was undertaken before and after transplantation. HLAMatchmaker analysis was performed 
+for persistent dnDSA to identify potentially more immunogenic eplet differences. Validation was perf
+ormed in recipients of lung transplants from 2008 to 2013 (n = 433). The majority of recipients with
+ dnDSA had antibodies to identical eplet positions on DQ2 and DQ7. A high-risk epitope mismatch (fou
+nd in DQA1*05 +  DQB1*02/DQB1*03:01(7)) was associated with a 4.2- and 4.9-fold increased risk of dn
+DSA in heart and lung recipients respectively. HLA electrostatic potential modeling provided a plaus
+ible explanation for this observed immunogenicity. A theoretical allocation algorithm avoiding high-
+risk epitope mismatches was generated and predicted to reduce dnDSA by up to 72% without additional 
+testing, eplet analysis, or cost.
+
+NO: 81
+Rothia mucilaginosa, previously known as Stomatococcus mucilaginosus, is a Gram-positive coccus that
+ is a part of the oropharyngeal and upper respiratory tract microbiota. Although this organism is be
+lieved to be of low virulence, it is increasingly being recognized as an opportunistic pathogen most
+ly affecting immunocompromised hosts. In this article, we describe a case of Rothia mucilaginosa bac
+teremia in an immunocompromised heart transplant recipient with end-stage renal disease, who was get
+ting maintenance hemodialysis via a tunneled catheter. To the best of our knowledge, no cases of Rot
+hia mucilaginosa bacteremia have been reported previously in heart transplant patients.
+
+NO: 82
+Due to the shortage of donor pool, there has been a need for organs with prolonged cold ischemic tim
+e. This study aims to evaluate the short-term results of different cold ischemic times in orthotopic
+ heart transplantation based on a single-center experience in China. We retrospectively analyzed out
+comes of the heart transplant patients from 1 January 2015 to 31 December 2017. The recipient popula
+tion was divided into four groups. Group 1: cold ischemic time greater than 8 hours; group 2: the co
+ld ischemic time between 6 and 8 hours; group 3: the cold ischemic time between 4 and 6 hours; and g
+roup 4: cold ischemic time less than 4 hours. Efficacy indicators included after transplant survival
+, infection rate, rejection rate, and complications. The four groups have similar donor and recipien
+t baseline characteristics (P > .05). Cold ischemic time greater than 8 hours had more cardiopulmona
+ry bypass (CPB) time (127.62 ± 50.23 minutes; P = .003), CPB-assist time (86.14 ± 36.74 minutes; P =
+ .047), and higher intra-aortic balloon pump (IABP) usage rate postoperatively (47.36%; P = .010). C
+old ischemic time greater than 8 hours witnessed a relatively higher mortality rate compared with th
+e other three groups (P = .115, P =  .078, and P =  .114) during the 2-year follow-up. Survival rate
+s of 1 and 2 years for the four groups were 78.95%, 87.13%, 87.32%, and 87.50% and 68.42%, 85.14%, 8
+5.92%, and 83.93%, respectively. Cold ischemic time less than 8 hours can be reasonably applied to e
+xpand the heart transplantation donor pool. Cold ischemic time greater than 8 hours might result in 
+longer CPB time, CPB-assist time, and higher IABP usage postoperatively. It might also affect the in
+-hospital and 2-years survival rate.
+
+NO: 83
+Cardiac atrophy is the most common complication of prolonged application of the left ventricle (LV) 
+assist device (LVAD) in patients with advanced heart failure (HF). Our aim was to evaluate the cours
+e of unloading-induced cardiac atrophy in rats with failing hearts, and to examine if increased isov
+olumic loading obtained by intraventricular implantation of an especially designed spring expander w
+ould attenuate this process. Heterotopic abdominal heart transplantation (HT
+
+NO: 84
+Concerns remain regarding the use of direct thrombin inhibitors for cardiopulmonary bypass anticoagu
+lation in pediatric patients with heparin-induced thrombocytopenia undergoing complex cardiac surger
+y. We describe the safe and effective use of epoprostenol sodium as an alternative therapy before he
+parin exposure for a pediatric patient with subacute heparin-induced thrombocytopenia and a ventricu
+lar assist device undergoing heart transplant.
+
+NO: 85
+The first pediatric heart transplant died 5 hours after transplant and the case was published by Kan
+trowitz. There is no report of the first successful case in the medical literature, nor indeed the o
+utcome of children transplanted prior to 1982. However, we recently discovered that children from th
+is period were entered retrospectively into the ISHLT Registry when it began and they form the basis
+ of this report. A retrospective review of the ISHLT Thoracic Registry was undertaken for pediatric 
+heart transplants prior to 1982. Demographic and descriptive data, and patient and graft survival we
+re analyzed. Thirty children (24 male) had a median age of 13 years (IQR 12-16) at the time of prima
+ry transplant. The underlying cardiac diagnosis was cardiomyopathy (18), congenital heart disease (7
+), not reported (5). The median follow-up was 2.63 years (IQR 0.1-7.2). Twenty-two patients are know
+n to have died, and eight underwent retransplantation. Median patient survival was 3.5 years. The fi
+rst patient to survive for more than one year was transplanted in 1968 and survived 6 years. The def
+inition of a successful transplant is debatable; however, the first child reported to the registry t
+o survive beyond one year was transplanted in 1968. Survival for these early patients was considerab
+ly less than the subsequent eras and retransplantation more common; however, the experience in manag
+ing these children laid the foundation for the future.
+
+NO: 86
+Preoperative liver and renal dysfunction remain surgical risk factors for both postoperative morbidi
+ty and mortality. The Model of End-Stage Liver Disease Excluding INR (international normalized ratio
+), or MELD-XI, score calculation may help as a predictor in patients with advanced heart failure. We
+ analyzed the impact of progressive elevated MELD-XI values among recipients of heart transplant at 
+our institution. The data of a total of 425 consecutive adult patients who underwent heart transplan
+tation, between January 2000 and August 2018, have been reviewed and divided into 3 cohorts accordin
+g to preoperative MELD-XI calculations (MELD-XI < 11; MELD-XI 11-18; and MELD-XI > 18). Early and la
+te outcomes have been analyzed. Patients with a MELD-XI score > 18 had a more critical clinical cond
+ition preoperatively and had a higher risk of early mortality (hazard ratio [HR] 1.45 [1.11-1.67], P
+ < .001). They showed high risk for postoperative dialysis (HR 2.8 [1.5-5.3], P < .001), rethoracoth
+omy for bleeding (HR 2.1 [1.2-4.1], P = .001), prolonged time of mechanical ventilation, time of int
+ensive care unit stay (HR 2.2 [1.3-3.8], P = .005), and graft failure requiring mechanical circulato
+ry support (HR 1.9 [1.1-3.3], P = .003). After risk adjustment per MELD-XI cohort, ischemic dilated 
+cardiomyopathy, redo operation, and cold ischemic time > 240 minutes resulted in being the strongest
+ predictors of early mortality (P < .001). The 5-year and 10-year survival for MELD-XI > 18 cohort w
+as 63% and 47% vs 72% and 59% in the control group (MELD-XI < 18) (log-rank, P < .001). Patients wit
+h an elevated preoperative MELD-XI profile presented more comorbidities and significantly lower surv
+ival. This suggests the MELD-XI score may provide further insight into appropriate recipient and eve
+ntual donor selection. Renal insufficiency and congestive hepatopathy should be properly optimized b
+efore heart transplantation.
+
+NO: 87
+This study was aimed to elucidate the immunoregulatory properties of human cardiac fibroblasts cultu
+red under pro-inflammatory and hypoxic conditions. Human heart tissue for isolating cardiac cells is
+ generally hard to obtain, particularly from all four chambers of the same heart. Since different pa
+rts of the heart have different functions and therefore may have different immunoregulatory properti
+es, ability to analyse cells from all chambers allows for a unique and comprehensive investigation. 
+Cells were isolated from all four chambers of the heart from patients undergoing cardiac transplanta
+tion surgery due to severe chronic heart failure (CHF) (n = 6). Cells isolated from one donor heart,
+ were used for comparison with the experimental group. Primary cultured human cardiac fibroblasts we
+re treated with Lipopolysaccharide (LPS) to induce an inflammatory response. Cells were also subject
+ed to hypoxia. To determine immunoregulatory properties of the cells, cytokine and chemokine profile
+s were determined using multiplex ELISA. RESULTS: On average, the fibroblasts population constituted
+ approximately 90% of the expanded non-myocytes. Levels of cytokines and chemokines were markedly in
+creased in human cardiac fibroblasts cultured under inflammatory conditions, with a similar response
+ in fibroblasts from all compartments of the heart. Unexpectedly, hypoxia did not further augment cy
+tokine and chemokine secretion. In conclusion, human cardiac fibroblasts are a robust source of pro-
+inflammatory mediators in the failing heart, independent of hypoxia, and might play a critical role 
+in inflammation associated with the pathogenesis of CHF.
+
+NO: 88
+Although bridge to lung transplantation (BTT) with extracorporeal membrane oxygenation (ECMO) is inc
+reasingly performed, the impact of BTT and its duration on post-transplant outcomes are unclear. We 
+retrospectively reviewed medical records of adult patients who underwent lung or heart-lung transpla
+ntation in our institution between January 2008 and December 2018. Data were compared in patients wh
+o did (n = 41; BTT) and did not (n = 36; non-BTT) require pre-transplant ECMO support. Data were als
+o compared in patients who underwent short-term (<14 days; n = 21; ST-BTT) and long-term (≥14 days; 
+n = 20; LT-BTT) BTTs. Among 77 patients included, 51 (66.2%) were male and median age was 53 years. 
+The median bridging time in the BTT group was 13 days (interquartile range [IQR], 7-19 days). Althou
+gh simplified acute physiologic score II was significantly higher in the BTT group (median, 35; IQR,
+ 31-49 in BTT group vs. median, 12; IQR, 7-19 in non-BTT group; p<0.001), 1-year (73.2% vs. 80.6%; p
+ = 0.361) and 5-year (61.5% vs. 61.5%; p = 0.765) post-transplant survival rates were comparable in 
+both groups. Comparison of ST- and LT-BTT subgroups showed that 1-year (90.5% vs. 55.0%; p = 0.009) 
+and 5-year (73.0% vs. 48.1%; p = 0.030) post-transplant survival rates were significantly higher in 
+ST-BTT group. In age and sex adjusted model, the LT-BTT was an independent risk factor for 1-year po
+st-transplant mortality (hazard ratio, 3.019; 95% confidence interval, 1.119-8.146; p = 0.029), wher
+eas the ST-BTT was not. Despite the severe illness, the BTT group showed favorable post-transplantat
+ion outcomes, particularly those bridged for less than 14 days.
+
+NO: 89
+Owing to improved surgical results, there is a growing population of patients with repaired congenit
+al heart disease (CHD) requiring heart transplantation. The objective of the study was to review our
+ experience in these patients. A retrospective review of the outcomes of heart transplantation in pa
+tients with CHD (n = 77) between 1988 and 2014 was performed. Outcomes of early (1988-1999) and late
+ (2000-2014) eras were compared. In results, the mean age was 18 ± 14 years (range: 16 days-58 years
+). Seventy (91%) patients underwent a mean of 2.6 ± 1.3 (range: 1-6) cardiac operations before trans
+plantation, whereas 7 were primary transplants. Univentricular palliation had been performed in 44 (
+57%) patients. Patients with CHD in the later era had longer mean cardiopulmonary bypass time (early
+: 190 ± 70 minute vs late: 271 ± 115 minute; P < 0.001), ischemic times (early: 222 ± 98 minute vs l
+ate: 275 ± 102 minute; P = 0.039), and more often required reconstruction of the great arteries at t
+he time of transplantation (8% vs 28%; P = 0.036). In those with prior univentricular palliations, t
+he ratio of ischemic to cardiopulmonary bypass time decreased in the later era (early: 1.41 ± 0.60 v
+s late: 0.99 ± 0.37; P = 0.016), reflecting increased intraoperative complexity. Following transplan
+tation, hospital mortality was 13% (10/77; 7 due to primary graft failure). There was no difference 
+in inhospital mortality between the 2 eras (P = 0.52); however, patients in the later era more often
+ required postoperative extracorporeal membrane oxygenation (early: 8%, 3/38 vs late: 28%, 11/39; P 
+= 0.036). In patients with prior univentricular palliations, those in the late era were more likely 
+to experience postoperative renal impairment (early: 1/21, 5% vs late: 9/23, 39%; P = 0.01). Patient
+s with CHD had higher 30-day mortality (CHD: n = 8, 10% vs non-CHD: n = 17, 3.8%; P = 0.021), but si
+milar survival at 10 years (67% ± 12% vs 70% ± 4.7%; P = 0.87) compared to those without CHD. In con
+clusion, patients with CHD undergoing cardiac transplantation in the recent era were more complex. T
+hey had a greater number of prior cardiac operations, and more often underwent complex vascular reco
+nstructions and required more prolonged intraoperative preparation.
+
+NO: 90
+The study is a prospective clinical observation of patients after orthotopic heart transplantation i
+n a large academic medical center in relation to COVID-19 morbidity. The study population was compri
+sed of 552 patients. All patients were consulted and advised by telephone as regards the prophylaxis
+ of SARS-CoV-2 infection. Hospital and outpatient follow-ups were limited to the minimum. Preventive
+ modification of immunosuppression was not recommended in relation to the pandemic. Three patients w
+ith multiple comorbidities (a woman aged 60, a man aged 59, and another man aged 83; 2.25 years, 5.5
+ years, and 7.5 years after heart transplantation, respectively) and one patient with concomitant ar
+terial hypertension (a woman aged 48, 5.5 years after heart transplantation) presented with a sympto
+matic COVID-19 infection. Three of the patients were on tacrolimus immunosuppression, and both femal
+e patients were additionally on therapy with mycophenolate mofetil, which was discontinued following
+ the diagnosis of infection. One male patient received combined therapy of cyclosporine A and mycoph
+enolate mofetil. The 60-year-old woman presented with gastrointestinal manifestations of the COVID-1
+9 infection which were of moderate severity. The recovery was achieved. The 59-year-old man presente
+d with myocardial infarction, exacerbated renal insufficiency that required hemodialysis and cardior
+espiratory failure complicated by bacterial sepsis. As a result, the patient died. The 83-year-old m
+ale patient reporting fever, myalgia, fatigue, cough and dyspnea was admitted to hospital and deceas
+ed due to septic shock two days after admission. The 48-year old woman who presented with mild sympt
+oms of the upper respiratory tract infection recovered after two weeks. Symptomatic treatment was us
+ed in all the patients. Another male patient (aged 45 years, 8 years after orthotopic heart transpla
+nt with no significant comorbidities) was an asymptomatic carrier of SARS-CoV-2 and remained under h
+ospital care. Of 552 patients after orthotopic heart transplantation, two SARS-CoV-2-related deaths 
+were reported.
+
+NO: 91
+Adult congenital heart disease (ACHD) patients are at risk for end-stage heart failure; heart transp
+lantation (Htx) represents the only definitive therapy available although not easily achievable for 
+all patients. The study aims to assess the pathway difficulties and outcomes of ACHD patients with e
+nd-stage heart failure referred for Htx evaluation. This is a single center retrospective study on A
+CHD patients with end-stage heart failure referred to Htx evaluation from 2004 to 2015. Demographic 
+data, medical history, failure modality, and follow-up were obtained from patient charts. End-points
+ were Htx list enrollment, transplant, and survival. Statistical analysis was performed comparing pa
+tients listed and not listed. There were 21 ACHD patients with end-stage heart failure referred to H
+tx evaluation. Transplant listing was declined for 12 (57%) meanwhile 9 patients were listed. Htx wa
+s successfully achieved in 3 patients after 24 and 36 months, respectively. Three patients are still
+ on the wait list and three died while waiting, with a listed group mortality of 33.3% (3/9). Mortal
+ity occurred in first 18 months after Htx list enrollment. Not listed group mortality was 50% (6/12)
+ and occurred after a median time of 17.5 months (IQR: 9-23 months). There was no difference in surv
+ival (P = 0.574) between listed and not listed (89, 63, and 63% vs. 83, 56, and 47% at 12-24-48 mont
+hs). Follow-up median duration was 27 months (IQR: 14-56 months). Heart transplant listing for ACHD 
+patients with end-stage heart failure is hard to obtain. Almost 2/3 of the patients were declined. S
+urvival for these patients is reduced severely either in waiting list for transplant or excluded ind
+icating the potential need of mechanical circulatory support as bridge to transplant or as destinati
+on therapy to improve survival likelihood.
+
+NO: 92
+Given the shortage of donor organs in pediatric heart transplantation (HTx), pretransplant risk stra
+tification may assist in organ allocation and recipient optimization. We sought to construct a scori
+ng system to preoperatively stratify a patient's risk of one-year mortality after HTx. The United Ne
+twork for Organ Sharing database was queried for pediatric (<18 years) patients undergoing HTx betwe
+en 2000 and 2016. The population was randomly divided in a 4:1 fashion into derivation and validatio
+n cohorts. A multivariable logistic regression model for one-year mortality was constructed within t
+he derivation cohort. Points were then assigned to independent predictors ( P < .05) based on relati
+ve odds ratios (ORs). Risk groups were established based on easily applicable, whole-integer score c
+utoffs. A total of 5,700 patients underwent HTx; one-year mortality was 10.7%. There was a similar d
+istribution of variables between derivation (n = 4,560) and validation (n = 1,140) cohorts. Of the 1
+2 covariates included in the final model, nine were allotted point values. The low-risk (score 0-9),
+ intermediate-risk (10-20), and high-risk (>20) groups had a 5.18%, 10%, and 28% risk of one-year mo
+rtality ( P < .001), respectively. Both intermediate-risk (OR = 2.46, 95% confidence interval [95% C
+I]: 1.93-3.15; P < .001) and high-risk (OR = 9.24, 95% CI: 6.92-12.35; P < .001) scores were associa
+ted with an increased risk of one-year mortality when compared to the low-risk group. The Children's
+ Heart Assessment Tool for Transplantation score represents a pediatric-specific, recipient-based sy
+stem to predict one-year mortality after HTx. Its use could assist providers in identification of pa
+tients at highest risk of poor outcomes and may aid in pretransplant optimization of these children.
+
+
+NO: 93
+The new French heart allocation system is designed to minimize waitlist mortality and extend the don
+or pool without a detrimental effect on posttransplant survival. This study was designed to construc
+t a 1-year posttransplant graft-loss risk score incorporating recipient and donor characteristics. T
+he study included all adult first single-organ recipients transplanted between 2010 and 2014 (N = 17
+76). This population was randomly divided in a 2:1 ratio into derivation and validation cohorts. The
+ association of variables with 1-year graft loss was determined with a mixed Cox model with center a
+s random effect. The predictors were used to generate a transplant-risk score (TRS). Donor-recipient
+ matching was assessed using 2 separate recipient- and donor-risk scores. Factors associated with 1-
+year graft loss were recipient age >50 years, valvular cardiomyopathy and congenital heart disease, 
+previous cardiac surgery, diabetes, mechanical ventilation, glomerular filtration rate and bilirubin
+, donor age >55 years, and donor sex: female. The C-index of the final model was 0.70. Correlation b
+etween observed and predicted graft loss rate was excellent for the overall cohort (r = 0.90). Heart
+s from high-risk donors transplanted to low-risk recipients had similar survival as those from low-r
+isk donors. The TRS provides an accurate prediction of 1-year graft-loss risk and allows optimal don
+or-recipient matching.
+
+NO: 94
+This article describes a patient who presented with an ST-segment elevation myocardial infarction th
+at quickly developed into acute cardiogenic shock refractory to conventional medical therapy. Extrac
+orporeal membrane oxygenation was used to manage the patient's heart failure and bridge to a long-te
+rm left ventricular assist device.
+
+NO: 95
+Extracorporeal membrane oxygenation therapy is being used increasingly in different areas. It has be
+come an indispensable assistant to clinicians for hypoxic pulmonary disorders, cardiogenic shock, re
+suscitation, and during cardiac surgery. In this case report, we describe a patient who is bridged t
+o successful cardiac retransplant under extracorporeal membrane oxygenation therapy support after ex
+tracorporeal membrane oxygenation therapy-assisted cardiopulmonary resuscitation.
+
+NO: 96
+Operating room (OR) extubation has been reported after lung transplantation (LT) in small cohorts. T
+his study aimed to evaluate the prognosis of OR-extubated patients. The secondary objectives were to
+ evaluate the safety of this approach and to identify its predictive factors. This retrospective sin
+gle-center cohort study included patients undergoing double lung transplantation (DLT) from January 
+2012 to June 2019. Patients undergoing multiorgan transplantation, repeat transplantation, or cardio
+pulmonary bypass during the study period were excluded. OR-extubated patients were compared with int
+ensive care unit (ICU)-extubated patients. Among the 450 patients included in the analysis, 161 (35.
+8%) were extubated in the OR, and 4 were reintubated within 24 hours. Predictive factors for OR extu
+bation were chronic obstructive pulmonary disease (COPD)/emphysema (p = .002) and cystic fibrosis (p
+ = .005), recipient body mass index (p = .048), and the PaO OR extubation was associated with a favo
+rable prognosis after DLT, but the association should not be interpreted as causality. This fast-tra
+ck protocol was made possible by a team committed to developing a comprehensive strategy to enhance 
+recovery.
+
+NO: 97
+Although mortality has decreased considerably in pediatric heart transplantation, waitlist and post-
+transplant death rates remain notable. End-of-life focused research in this population, however, is 
+very limited. This Pediatric Heart Transplant Society study aimed to describe the circumstances surr
+ounding death of pediatric heart transplant patients. A retrospective analysis of the multi-institut
+ional, international, Pediatric Heart Transplant Society registry was conducted. Descriptive statist
+ics and univariate analyses were performed to 1) describe end-of-life in pediatric pre- and post-hea
+rt transplant patients and 2) examine associations between location of death and technological inter
+ventions at end-of-life with demographic and disease factors. Of 9217 patients (0-18 years) enrolled
+ in the registry between 1993 and 2018, 2804 (30%) deaths occurred; 1310 while awaiting heart transp
+lant and 1494 post-heart transplant. The majority of waitlist deaths (89%) occurred in the hospital,
+ primarily in ICU (74%) with most receiving mechanical ventilation (77%). Fewer post-transplant deat
+hs occurred in the hospital (22%). Out-of-hospital death was associated with older patient age (p < 
+.01). ICU deaths with high use of technological interventions at end-of-life were common, particular
+ly in patients awaiting heart transplant. In this high mortality population, findings raise challeng
+ing considerations for clinicians, families, and policy makers on how to balance quality of life ami
+dst high risk for hospital-based death.
+
+NO: 98
+ The number of patients waiting for heart transplantation (HTx) is exceeding the number of actual tr
+ansplants. Subsequently, waiting times are increasing. One possible solution may be an increased acc
+eptance of organs after rescue allocation. These organs had been rejected by at least three consecut
+ive transplant centers due to medical reasons.  Between October 2010 and July 2019, a total of 139 p
+atients underwent HTx in our department. Seventy (50.4%) of the 139 patients were transplanted with 
+high urgency (HU) status and regular allocation (HU group); the remaining received organs without HU
+ listing after rescue allocation (elective group,   Donor parameters were comparable between the gro
+ups. Thirty-day mortality was comparable between HU patients (11.4%) and rescue allocation (12.1%). 
+Primary graft dysfunction with extracorporeal life support occurred in 26.9% of the elective group w
+ith rescue allocated organs, which was not inferior to the regular allocated organs (HU group: 35.7%
+). No significant differences were observed regarding the incidence of common perioperative complica
+tions as well as morbidity and mortality during 1-year follow-up.  Our data support the use of heart
+s after rescue allocation for elective transplantation of patients without HU status. We could show 
+that patients with rescue allocated organs showed no significant disadvantages in the early perioper
+ative morbidity and mortality as well at 1-year follow-up.
+
+NO: 99
+Fixed pulmonary hypertension (fPH) is a contraindication for heart transplantation (HTX). Left ventr
+icular assist device (LVAD) implantation as a bridge to candidacy can reverse fPH in patients with t
+erminal heart failure by chronic left ventricular unloading. We report our institutional experience 
+with terminal heart failure patients and fPH that were successfully bridged to candidacy and underwe
+nt subsequent HTX. We retrospectively reviewed the data of 79 patients with terminal heart failure a
+nd fPH who were successfully bridged to candidacy for HTX with 6 different LVAD devices at our centr
+e from October 1998 to September 2016 (Novacor n = 4, MicroMed DeBakey n = 29, DuraHeart n = 2, Hear
+tMate II n = 14, HVAD n = 29 and MVAD n = 1). Median duration of LVAD support was 288 days (range 45
+-2279 days). Within the same timeframe, a control group of 48 patients underwent HTX after bridge-to
+-transplant LVAD therapy for reasons other than PH. Study end points were (i) development of fPH aft
+er LVAD implantation, (ii) post-transplant outcomes and (iii) incidence of severe adverse events. Pu
+lmonary vascular resistance, assessed by vasodynamic catheterization, was 4.3 ± 1.8 WU before LVAD i
+mplantation. After a median support period of 89 days (interquartile range 4-156 days), pulmonary va
+scular resistance decreased to 2.0 ± 0.9 WU (P ≤ 0.001), and patients were listed for HTX. Median du
+ration of LVAD support in the study group was 288 days (45-2279 days). We observed 2 patients (2.5%)
+ with acute right heart failure who required extracorporeal mechanical support after HTX in the stud
+y group. Long-term post-transplant survival between the study group (3 years: 83.5%, 5 years: 81.0%)
+ and the control group (3 years: 87.5%, 5 years: 85.4%) was comparable (log-rank: P = 0.585). LVAD i
+mplantation as a bridge to candidacy reverses fPH in patients with terminal heart failure. Post-HTX 
+survival is excellent and comparable to results obtained in patients without fPH at the time of HTX 
+listing.
+
+NO: 100
+The official analysis of posttransplant survival considers only recently transplanted patients and s
+uggests absence of outcome differences among pediatric heart transplant (HT) centers. We sought to c
+ompare posttransplant survival among currently active pediatric HT centers in the United States over
+ 15 years of activity. We identified all children <18 years old who underwent their first HT during 
+2000-2014 at US centers active during 2013-14. Recipients were followed until March 2016. A mixed-ef
+fects survival model with center as a random effect was used to assess center differences in patient
+ and graft survival. Center case-mix and standardized mortality ratio (SMR) for 90-day mortality wer
+e assessed by applying an internally validated risk-model. Overall, 4271 children transplanted at 46
+ centers were analyzed. There was a significant center effect on risk-adjusted patient (P = .01) and
+ graft survival (P < .001). Adjusting for 90-day SMR or center-volume, but not for case-mix, was ass
+ociated with a significant reduction in center effect on long-term survival. There was no center eff
+ect on conditional survival in 90-day survivors. In conclusion, there are significant differences in
+ posttransplant survival among pediatric HT centers in the United States. Centers with better short-
+term performance (lower SMR for 90-day mortality) maintain their outcome advantage on follow-up and 
+have superior longer-term outcomes.
+

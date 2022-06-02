@@ -1,0 +1,1 @@
+Analysis of heart rate variability using time-varying filtering of heart transplanted patients. In this paper, we analyze the heart rate variability (HRV), obtained by using the time-varying integral pulse frequency modulation (TVIPFM) which is well adapted to the exercise stress testing. 

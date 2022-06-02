@@ -1,0 +1,1 @@
+Predicting survival in ambulatory patients with severe heart failure on beta-blocker therapy. Peak VO(2) and the Heart Failure Survival Score are 2 clinical parameters used to risk stratify patients with heart failure and time listing for cardiac transplantation. The efficacy of these prognostic variables in patients receiving beta-blocker therapy was evaluated. 

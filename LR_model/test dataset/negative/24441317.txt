@@ -1,0 +1,1 @@
+LVAD: Left ventricular assist devices for end-stage heart failure. Heart failure affects more than 5 million Americans with approximately 200,000 patients in end-stage disease that has failed traditional treatment. Historically, the only option for treatment was a heart transplant until left ventricular assist devices offered another option. 

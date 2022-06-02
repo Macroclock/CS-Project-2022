@@ -1,0 +1,1 @@
+Allo-tolerance and allorejection responses ex vivo. Spleen cells from fully immune competent mice show different intracellular STAT responses to alloantigen. Cells from mice primed to accept the alloantigen have low STAT 6 and fragmented STAT 4, compared to cells from mice primed to reject the same alloantigen. 
